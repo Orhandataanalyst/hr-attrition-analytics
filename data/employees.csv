@@ -1,0 +1,1501 @@
+EmployeeID,Age,Department,JobLevel,MonthlyIncome,OverTime,JobSatisfaction,YearsAtCompany,DistanceFromHome_km,Attrition
+E10000,41,Operations,1,3841,Yes,4,1.5,14,Yes
+E10001,46,Human Resources,4,9517,No,4,6.0,28,No
+E10002,32,IT,2,9316,No,2,9.0,7,No
+E10003,49,Sales,4,12170,No,1,17.4,5,No
+E10004,54,Research & Development,1,8453,No,4,6.9,22,No
+E10005,24,Human Resources,5,11181,No,3,2.9,27,No
+E10006,24,Sales,1,5203,Yes,2,1.1,1,Yes
+E10007,27,IT,2,7860,Yes,2,3.1,22,Yes
+E10008,33,IT,1,6359,No,3,0.2,24,No
+E10009,32,Research & Development,1,6306,No,3,12.5,29,No
+E10010,51,Research & Development,3,10456,Yes,1,0.6,26,No
+E10011,31,Sales,1,3721,No,4,11.7,29,No
+E10012,56,Sales,2,6958,No,1,2.0,5,No
+E10013,50,Research & Development,1,6980,No,2,15.3,16,No
+E10014,58,Research & Development,3,14141,Yes,4,6.2,24,No
+E10015,60,Operations,1,5169,No,4,4.9,10,No
+E10016,22,Finance,1,6018,No,3,3.0,24,No
+E10017,48,IT,3,10866,No,4,3.2,27,No
+E10018,55,Operations,3,6238,Yes,1,4.9,27,No
+E10019,21,Finance,3,9145,No,3,2.0,10,Yes
+E10020,26,Sales,5,8674,No,1,7.0,24,No
+E10021,32,Sales,1,6279,No,3,4.9,10,Yes
+E10022,28,Operations,2,6455,Yes,4,0.6,27,No
+E10023,52,Sales,3,7102,Yes,2,3.5,17,No
+E10024,25,Sales,3,8208,No,3,3.4,24,Yes
+E10025,57,Research & Development,3,12044,No,4,11.4,5,No
+E10026,34,Research & Development,1,7420,Yes,2,0.1,5,No
+E10027,44,Finance,1,6679,No,2,4.7,14,No
+E10028,36,Operations,3,6561,No,2,4.8,18,No
+E10029,34,Research & Development,2,8227,No,1,11.7,4,Yes
+E10030,55,Research & Development,1,7084,No,3,1.7,9,No
+E10031,34,Sales,1,5947,No,3,11.7,14,No
+E10032,60,Sales,2,6134,No,2,3.0,20,No
+E10033,45,Sales,1,4635,No,4,5.8,27,No
+E10034,34,Operations,3,8318,No,4,0.7,23,No
+E10035,55,Sales,1,4758,No,4,9.0,27,Yes
+E10036,31,Research & Development,3,12210,No,3,2.0,27,No
+E10037,33,Sales,1,5512,No,3,9.5,28,No
+E10038,56,IT,2,9270,No,1,5.9,25,No
+E10039,27,Sales,1,6477,No,2,2.5,22,Yes
+E10040,56,Sales,3,8951,No,2,4.7,17,Yes
+E10041,20,Human Resources,2,6874,Yes,3,1.0,22,No
+E10042,20,Research & Development,1,6233,No,4,0.0,27,No
+E10043,25,Human Resources,5,9459,No,3,6.0,13,No
+E10044,45,Operations,3,7879,No,1,4.7,11,No
+E10045,54,IT,1,7806,No,4,21.3,26,No
+E10046,54,Sales,3,9649,Yes,3,5.9,20,Yes
+E10047,45,Operations,1,6055,No,4,0.1,4,No
+E10048,46,Research & Development,4,13190,No,2,5.9,8,Yes
+E10049,60,Human Resources,1,5064,No,3,9.4,5,No
+E10050,58,Research & Development,5,16385,No,4,1.6,28,No
+E10051,22,Operations,1,4749,No,4,0.3,4,No
+E10052,42,Sales,3,8206,No,4,4.2,2,Yes
+E10053,35,Research & Development,1,6124,No,3,4.0,12,No
+E10054,25,Research & Development,2,9968,No,1,1.3,13,Yes
+E10055,52,Sales,2,5936,No,4,0.2,2,Yes
+E10056,42,IT,1,6997,No,2,2.5,15,No
+E10057,47,Research & Development,1,5811,No,3,7.7,21,No
+E10058,41,Finance,1,7226,No,2,4.2,23,No
+E10059,22,Operations,3,6411,No,1,3.0,6,Yes
+E10060,55,Operations,1,5218,No,4,4.1,23,No
+E10061,36,Operations,2,4877,No,3,6.7,20,No
+E10062,29,Operations,1,4488,Yes,2,10.0,26,No
+E10063,46,Sales,1,6113,Yes,4,0.2,17,Yes
+E10064,32,Research & Development,4,11487,Yes,4,1.4,4,No
+E10065,48,Sales,2,6867,No,2,4.1,21,No
+E10066,40,Research & Development,2,8397,No,2,3.2,24,No
+E10067,38,Sales,3,5977,No,1,3.1,21,No
+E10068,24,Finance,3,10222,No,2,5.0,16,No
+E10069,27,Sales,1,5634,Yes,2,1.8,23,Yes
+E10070,55,Operations,1,4108,No,4,0.2,26,No
+E10071,59,Research & Development,2,9521,No,4,4.3,14,No
+E10072,42,Human Resources,1,4472,No,2,3.2,13,No
+E10073,39,Operations,1,4168,No,1,2.1,17,No
+E10074,27,Sales,4,9732,No,3,6.2,20,No
+E10075,49,Human Resources,2,5774,Yes,1,3.0,8,No
+E10076,46,Finance,2,10356,No,3,11.5,3,No
+E10077,41,Finance,1,5194,No,4,4.1,15,Yes
+E10078,31,Operations,3,7962,Yes,2,4.6,20,No
+E10079,23,Sales,2,7620,No,4,1.6,3,No
+E10080,59,Sales,1,4084,No,3,9.5,6,No
+E10081,29,Finance,5,10559,No,4,10.0,28,No
+E10082,46,Operations,5,10557,No,2,9.1,16,Yes
+E10083,22,Sales,4,9162,No,4,3.0,27,Yes
+E10084,48,Human Resources,3,7983,No,2,10.2,22,No
+E10085,27,Operations,2,6850,No,3,1.5,3,No
+E10086,48,Operations,1,4526,No,2,2.8,4,No
+E10087,28,Research & Development,2,7771,Yes,3,3.4,1,Yes
+E10088,40,Research & Development,1,4710,No,1,2.4,25,Yes
+E10089,37,Sales,2,6979,No,3,18.0,12,No
+E10090,41,Sales,1,4759,Yes,4,2.4,8,No
+E10091,33,Human Resources,1,5130,No,3,14.0,16,Yes
+E10092,33,Research & Development,3,11113,Yes,2,2.2,20,Yes
+E10093,34,Operations,1,3951,No,2,1.5,14,No
+E10094,46,Research & Development,3,13049,Yes,4,3.0,2,No
+E10095,53,IT,3,11499,No,1,7.4,10,No
+E10096,35,Sales,3,9110,No,3,6.2,11,No
+E10097,20,Research & Development,2,7642,Yes,3,1.0,19,Yes
+E10098,27,Sales,3,7864,Yes,3,6.0,20,Yes
+E10099,24,Sales,2,6365,No,3,3.8,12,No
+E10100,45,Finance,4,11017,No,4,0.8,9,No
+E10101,53,Operations,4,7442,Yes,4,5.1,12,No
+E10102,28,Research & Development,1,7369,No,2,9.0,5,No
+E10103,41,Research & Development,1,7197,No,2,9.2,1,No
+E10104,39,Human Resources,2,6564,Yes,1,0.8,6,No
+E10105,37,Research & Development,1,6579,No,2,12.3,18,No
+E10106,56,Operations,1,5472,Yes,4,1.5,17,No
+E10107,30,Operations,4,8796,No,1,0.3,3,Yes
+E10108,45,Research & Development,1,4703,No,1,3.1,22,No
+E10109,42,Research & Development,1,6466,Yes,1,4.3,25,Yes
+E10110,55,IT,3,10106,Yes,2,7.9,8,Yes
+E10111,29,Finance,1,7126,Yes,1,10.0,14,Yes
+E10112,58,Sales,1,5163,No,3,1.1,12,No
+E10113,55,Finance,5,12930,Yes,3,2.0,11,Yes
+E10114,38,Sales,3,7610,No,4,5.9,29,No
+E10115,53,IT,2,9054,No,4,4.0,20,No
+E10116,46,IT,1,6238,No,2,0.7,21,No
+E10117,33,Sales,1,4968,No,1,4.4,26,Yes
+E10118,54,Research & Development,5,13318,Yes,4,4.2,15,No
+E10119,21,IT,3,10856,No,1,0.8,5,No
+E10120,25,Sales,1,5013,Yes,1,2.0,21,No
+E10121,56,Operations,3,5843,No,3,10.7,12,No
+E10122,52,IT,1,7085,Yes,4,18.4,28,No
+E10123,32,Research & Development,3,9902,Yes,2,1.1,29,No
+E10124,60,IT,1,6874,No,3,4.4,12,No
+E10125,46,Sales,1,5596,No,1,20.8,26,No
+E10126,29,Sales,1,6130,Yes,2,4.9,22,Yes
+E10127,55,Research & Development,1,7882,No,4,0.3,12,No
+E10128,60,Sales,4,9053,Yes,4,16.2,20,No
+E10129,52,Research & Development,4,12462,No,1,4.6,11,No
+E10130,45,Finance,3,8332,No,4,6.5,25,No
+E10131,55,Operations,3,8786,No,2,3.6,24,No
+E10132,53,Research & Development,1,7375,No,2,14.6,28,Yes
+E10133,40,Sales,1,6252,No,4,3.5,3,No
+E10134,51,Finance,4,11150,No,2,0.5,21,No
+E10135,54,Research & Development,5,11025,No,4,4.2,4,No
+E10136,21,Finance,2,9615,No,1,2.0,25,No
+E10137,38,Research & Development,3,10933,Yes,4,1.8,17,Yes
+E10138,58,Research & Development,4,12919,Yes,4,2.0,15,Yes
+E10139,30,Human Resources,5,10389,No,3,11.0,17,No
+E10140,45,IT,1,7102,No,4,2.2,27,Yes
+E10141,39,Operations,2,6412,No,1,5.8,17,No
+E10142,44,Research & Development,2,7208,Yes,1,25.0,28,Yes
+E10143,33,Human Resources,2,7108,No,1,10.5,23,No
+E10144,46,Research & Development,2,8343,No,3,4.2,29,No
+E10145,51,Finance,1,6028,No,3,1.5,26,No
+E10146,50,Sales,1,6466,Yes,2,0.4,3,No
+E10147,54,Research & Development,3,12006,Yes,3,3.7,12,No
+E10148,30,Research & Development,3,10373,Yes,4,2.9,11,No
+E10149,25,Finance,3,7662,No,1,3.0,10,No
+E10150,42,Sales,1,5460,No,1,6.3,16,No
+E10151,26,IT,1,7018,Yes,1,0.6,25,No
+E10152,45,Operations,2,5968,No,4,12.5,5,No
+E10153,35,Operations,4,7316,Yes,2,0.1,8,No
+E10154,49,Operations,2,5454,No,4,4.2,9,Yes
+E10155,38,Finance,1,5424,Yes,2,2.3,26,No
+E10156,43,Research & Development,2,9138,No,3,0.2,3,No
+E10157,59,Research & Development,5,16058,No,2,0.2,21,No
+E10158,45,Sales,4,10921,Yes,2,1.8,6,Yes
+E10159,58,Sales,4,8870,No,2,3.2,25,No
+E10160,29,Sales,2,7004,No,1,1.2,27,No
+E10161,59,Finance,1,6811,No,4,23.3,19,No
+E10162,28,Human Resources,4,8425,No,2,7.9,20,No
+E10163,49,Sales,3,8121,Yes,2,1.0,4,Yes
+E10164,21,Operations,3,9178,No,3,0.2,24,No
+E10165,47,Research & Development,2,9127,No,4,23.0,21,No
+E10166,56,Operations,1,5240,No,2,1.1,2,No
+E10167,31,Operations,1,4491,No,3,4.7,15,No
+E10168,26,Research & Development,4,12780,No,3,7.0,14,No
+E10169,35,Finance,4,9209,No,2,7.5,6,No
+E10170,22,Research & Development,1,6983,Yes,1,1.4,29,Yes
+E10171,20,Operations,4,9833,No,4,1.0,3,No
+E10172,37,Operations,2,7544,Yes,1,0.2,20,No
+E10173,54,Sales,2,7790,No,3,5.0,8,No
+E10174,36,Sales,2,7373,No,4,3.2,24,Yes
+E10175,31,Research & Development,1,7049,No,4,2.7,4,Yes
+E10176,29,IT,1,6117,No,2,4.2,11,Yes
+E10177,23,IT,1,6465,No,1,4.0,4,No
+E10178,36,IT,1,7077,Yes,1,17.0,8,No
+E10179,32,Sales,2,6170,No,4,1.1,25,No
+E10180,38,Finance,1,7101,Yes,4,1.3,24,No
+E10181,33,IT,3,8974,No,3,3.0,28,No
+E10182,44,Human Resources,1,3888,Yes,1,8.0,7,No
+E10183,49,Research & Development,2,7826,No,2,1.5,29,No
+E10184,20,Finance,2,6499,Yes,4,1.0,24,Yes
+E10185,20,Sales,1,4474,No,2,1.0,17,No
+E10186,31,Sales,2,7737,No,4,3.9,16,No
+E10187,29,Sales,2,6648,No,1,2.7,17,No
+E10188,23,Sales,2,6991,No,2,4.0,23,No
+E10189,56,Sales,4,11075,No,1,1.1,2,No
+E10190,23,Sales,3,9517,Yes,2,4.0,27,No
+E10191,55,Operations,1,4451,No,1,12.0,4,Yes
+E10192,22,Sales,3,9586,Yes,4,0.2,4,Yes
+E10193,45,Operations,2,6304,No,2,26.0,23,No
+E10194,35,Sales,2,6815,No,2,8.9,14,No
+E10195,42,Operations,1,4989,No,3,0.6,17,No
+E10196,41,Sales,2,5647,No,2,1.3,12,No
+E10197,29,Research & Development,3,9792,Yes,2,0.3,17,Yes
+E10198,24,Finance,3,9730,No,2,5.0,21,Yes
+E10199,55,Research & Development,3,11603,No,1,4.7,22,No
+E10200,49,IT,1,6298,No,2,4.8,22,No
+E10201,51,Operations,3,7202,No,1,0.5,24,Yes
+E10202,45,Operations,2,6727,Yes,1,1.2,23,No
+E10203,41,Sales,2,7966,Yes,1,1.0,21,Yes
+E10204,54,Operations,3,7987,No,3,13.5,23,No
+E10205,26,Sales,2,7849,Yes,1,7.0,1,No
+E10206,44,IT,4,11387,No,2,6.1,27,No
+E10207,28,Finance,4,11168,No,2,9.0,16,No
+E10208,46,Human Resources,3,7924,No,2,8.9,14,No
+E10209,35,Sales,1,5162,No,3,6.2,25,No
+E10210,37,Research & Development,2,8366,No,2,1.7,10,No
+E10211,33,Research & Development,1,8393,No,1,0.9,24,No
+E10212,44,Sales,3,8068,No,4,5.9,10,No
+E10213,22,Operations,4,7605,No,4,3.0,28,No
+E10214,51,IT,1,6978,No,2,2.3,28,No
+E10215,36,Research & Development,3,13194,No,4,5.5,16,No
+E10216,60,Human Resources,3,7706,No,2,3.2,26,No
+E10217,38,IT,1,7566,No,3,7.2,16,No
+E10218,25,Sales,4,9213,No,4,3.5,15,Yes
+E10219,31,IT,2,7890,No,1,0.1,1,No
+E10220,38,Human Resources,1,4535,Yes,1,0.5,11,Yes
+E10221,35,Sales,1,5264,No,1,1.2,15,No
+E10222,30,Operations,3,8926,No,4,0.3,4,No
+E10223,33,Operations,1,4081,No,3,10.2,17,Yes
+E10224,50,Operations,2,7210,Yes,2,5.8,11,Yes
+E10225,35,Sales,1,4708,Yes,4,1.0,27,No
+E10226,26,Operations,2,5857,No,3,0.5,6,No
+E10227,45,Operations,2,6630,No,4,3.9,26,No
+E10228,50,IT,3,10946,Yes,4,16.3,24,No
+E10229,40,IT,2,8668,Yes,3,0.9,2,No
+E10230,49,Research & Development,3,8672,No,1,2.1,22,No
+E10231,28,IT,1,6879,No,4,7.1,5,No
+E10232,25,Human Resources,1,4337,Yes,1,6.0,12,No
+E10233,52,Human Resources,4,11743,Yes,1,3.6,12,No
+E10234,52,Sales,4,9475,Yes,1,2.2,4,No
+E10235,41,Sales,2,6966,Yes,3,0.2,23,Yes
+E10236,39,Operations,4,7418,Yes,3,0.4,22,Yes
+E10237,38,Sales,3,7793,Yes,2,7.2,5,No
+E10238,29,Operations,2,5092,No,3,3.4,12,No
+E10239,49,Finance,2,9079,No,1,3.2,23,No
+E10240,35,Research & Development,1,6784,No,1,11.2,22,No
+E10241,50,Sales,2,7272,No,3,1.7,18,No
+E10242,38,Research & Development,1,6429,No,4,0.9,17,No
+E10243,54,Operations,2,5664,Yes,3,1.6,26,Yes
+E10244,54,Sales,2,7865,Yes,3,2.1,18,No
+E10245,53,Research & Development,1,6187,Yes,4,10.7,10,No
+E10246,31,Sales,2,5339,No,2,12.0,14,No
+E10247,47,Operations,1,4969,No,1,3.2,12,Yes
+E10248,50,IT,2,7236,No,2,12.7,5,No
+E10249,49,Research & Development,3,10242,No,2,1.9,2,Yes
+E10250,56,Research & Development,2,9882,No,3,3.9,27,No
+E10251,26,Research & Development,2,8033,No,1,0.3,16,No
+E10252,46,Sales,2,7530,Yes,3,16.0,29,Yes
+E10253,48,Sales,1,4918,No,1,17.3,23,No
+E10254,34,Research & Development,1,8257,No,2,5.4,22,Yes
+E10255,30,Research & Development,3,12531,Yes,2,8.5,15,No
+E10256,43,Sales,4,9174,Yes,4,4.3,15,No
+E10257,30,IT,1,6423,Yes,2,6.7,16,No
+E10258,44,Operations,1,4265,No,2,0.4,23,No
+E10259,24,Research & Development,5,14971,No,4,5.0,27,No
+E10260,36,Sales,3,9408,No,1,5.1,9,Yes
+E10261,36,IT,2,6928,Yes,2,0.8,23,No
+E10262,50,Sales,3,9178,Yes,2,14.8,25,No
+E10263,20,Sales,2,5730,Yes,2,0.5,10,No
+E10264,34,Sales,4,8721,Yes,1,3.6,15,No
+E10265,46,Sales,1,4207,Yes,1,2.2,28,No
+E10266,40,Finance,2,10174,No,1,21.0,16,No
+E10267,50,Sales,2,6860,No,1,6.7,22,No
+E10268,55,Research & Development,1,7210,No,3,0.9,3,No
+E10269,51,IT,3,9350,No,1,0.9,9,Yes
+E10270,33,Operations,1,5345,No,2,0.2,3,Yes
+E10271,25,Sales,3,6181,No,3,1.0,7,No
+E10272,23,Research & Development,3,10847,Yes,2,4.0,6,Yes
+E10273,46,Human Resources,2,7953,No,2,3.3,20,No
+E10274,25,Research & Development,5,13950,Yes,2,5.7,4,No
+E10275,54,Operations,2,6038,No,2,5.1,15,No
+E10276,43,Sales,3,8935,Yes,1,10.0,2,Yes
+E10277,21,IT,1,5950,No,3,2.0,18,No
+E10278,52,IT,1,6610,No,2,9.1,19,No
+E10279,27,IT,3,11349,No,1,0.0,4,Yes
+E10280,60,Operations,4,8803,Yes,2,4.9,5,No
+E10281,30,Research & Development,2,9305,No,4,11.0,23,No
+E10282,42,Sales,4,9316,Yes,3,1.5,25,Yes
+E10283,38,Research & Development,1,7269,Yes,1,4.5,25,Yes
+E10284,34,IT,4,12048,No,3,0.4,19,No
+E10285,27,Sales,4,11422,Yes,2,6.1,13,No
+E10286,22,Sales,2,7404,Yes,4,3.0,21,No
+E10287,42,Research & Development,2,8648,No,4,1.4,9,No
+E10288,60,IT,3,7188,No,1,2.9,17,Yes
+E10289,34,Human Resources,1,5369,No,1,3.5,29,No
+E10290,32,Sales,2,7429,No,4,6.5,7,No
+E10291,46,Sales,3,7358,No,1,3.4,29,No
+E10292,60,IT,2,6373,No,3,19.2,22,No
+E10293,41,Operations,1,4089,Yes,2,5.7,4,No
+E10294,59,IT,1,7325,Yes,1,11.7,25,No
+E10295,48,Finance,1,5570,No,3,4.1,16,Yes
+E10296,52,Finance,3,9314,No,4,11.2,26,No
+E10297,30,Human Resources,1,5075,No,2,0.2,13,No
+E10298,42,IT,1,7561,Yes,1,3.8,10,Yes
+E10299,48,Research & Development,1,6989,No,1,7.7,9,No
+E10300,34,Operations,2,5953,No,1,0.6,23,No
+E10301,50,Sales,2,6363,Yes,3,5.3,16,No
+E10302,35,IT,4,14310,No,3,14.6,8,No
+E10303,49,IT,3,11478,Yes,3,2.6,20,No
+E10304,38,IT,5,13603,No,3,2.1,3,No
+E10305,22,Research & Development,4,10585,No,2,0.2,11,Yes
+E10306,23,Research & Development,2,8063,No,4,4.0,11,No
+E10307,58,Research & Development,1,7491,Yes,3,0.7,9,Yes
+E10308,46,Sales,5,10212,Yes,2,5.0,17,Yes
+E10309,43,Human Resources,1,5473,Yes,4,1.5,26,No
+E10310,51,Operations,2,6287,No,1,3.2,6,No
+E10311,31,Research & Development,1,7250,No,3,12.0,20,Yes
+E10312,34,Operations,3,7888,No,1,15.0,5,No
+E10313,37,IT,1,6986,Yes,2,8.4,9,No
+E10314,46,Research & Development,2,7994,Yes,3,1.6,29,No
+E10315,41,IT,1,6334,No,3,19.4,5,No
+E10316,31,Finance,4,14849,No,4,1.3,1,No
+E10317,41,Research & Development,2,7617,Yes,3,3.4,12,No
+E10318,35,Sales,2,6424,No,1,8.1,20,No
+E10319,30,IT,1,7435,Yes,1,7.0,28,No
+E10320,27,Finance,1,6264,No,4,8.0,20,No
+E10321,30,Sales,3,7462,Yes,4,2.7,25,No
+E10322,42,Operations,3,6153,No,4,23.0,14,No
+E10323,34,IT,3,10831,No,1,11.5,7,No
+E10324,37,Finance,5,14961,No,1,18.0,15,Yes
+E10325,52,Sales,2,7956,Yes,3,0.3,18,Yes
+E10326,48,Sales,1,5391,No,4,4.5,9,No
+E10327,37,Finance,2,9140,No,2,0.6,1,No
+E10328,43,Sales,1,4692,No,3,5.5,18,No
+E10329,21,Sales,2,6949,No,4,0.3,27,Yes
+E10330,36,Operations,2,5536,Yes,4,14.8,20,No
+E10331,38,Research & Development,2,9094,Yes,3,16.5,28,No
+E10332,32,IT,4,13046,No,4,13.0,26,No
+E10333,28,Sales,3,9329,No,4,0.5,7,No
+E10334,50,Finance,2,7157,No,3,4.9,20,No
+E10335,20,Sales,3,9526,No,2,1.0,10,No
+E10336,60,IT,4,11287,No,1,3.6,20,Yes
+E10337,60,Sales,3,7250,No,1,0.2,9,No
+E10338,45,Research & Development,2,8726,No,1,1.6,1,No
+E10339,32,Sales,4,8017,No,4,1.0,6,No
+E10340,32,Research & Development,2,8913,Yes,4,0.1,3,No
+E10341,42,Research & Development,1,7247,No,4,10.3,20,No
+E10342,47,Operations,1,4624,Yes,2,2.8,25,Yes
+E10343,34,Research & Development,2,9481,No,3,4.2,11,No
+E10344,38,Sales,1,5154,Yes,2,11.6,11,Yes
+E10345,22,Finance,2,8126,Yes,4,2.2,1,No
+E10346,56,Human Resources,2,5201,No,1,6.0,25,No
+E10347,56,Finance,1,6419,No,3,9.0,7,No
+E10348,30,Sales,1,4809,No,2,6.1,5,No
+E10349,58,Research & Development,1,6626,No,4,2.5,20,No
+E10350,54,Sales,2,6735,No,2,0.1,1,Yes
+E10351,27,Sales,1,5479,Yes,1,1.2,21,Yes
+E10352,26,Sales,2,5466,Yes,2,7.0,10,No
+E10353,37,Research & Development,4,10330,No,4,0.3,1,No
+E10354,48,Sales,2,6565,No,2,12.6,29,No
+E10355,35,Sales,3,8739,Yes,4,6.8,16,No
+E10356,50,Human Resources,3,7962,No,1,9.6,9,No
+E10357,26,Research & Development,5,16186,Yes,4,3.2,19,No
+E10358,57,Sales,1,6192,No,2,2.5,13,No
+E10359,47,Operations,2,6385,Yes,2,16.3,19,No
+E10360,30,Sales,4,9701,No,1,5.7,24,Yes
+E10361,52,Research & Development,2,7805,No,3,11.0,19,No
+E10362,36,Research & Development,4,11272,No,3,0.6,19,No
+E10363,51,Research & Development,1,6611,No,4,1.5,23,No
+E10364,48,Operations,1,4890,No,3,7.6,23,No
+E10365,47,Research & Development,4,13053,Yes,3,8.5,10,No
+E10366,24,Research & Development,2,8913,Yes,4,5.0,17,No
+E10367,20,IT,2,8230,No,2,1.0,25,No
+E10368,48,Human Resources,4,9655,Yes,4,7.3,15,Yes
+E10369,29,Sales,1,5490,Yes,2,10.0,13,No
+E10370,22,Sales,5,11580,Yes,2,3.0,18,Yes
+E10371,41,Sales,2,7064,No,4,4.3,2,No
+E10372,58,Finance,1,5967,No,3,9.3,29,No
+E10373,48,Finance,1,5596,Yes,3,4.9,19,No
+E10374,32,Sales,2,7213,No,4,13.0,1,No
+E10375,35,Finance,2,8528,No,1,2.4,10,No
+E10376,48,Sales,4,9467,No,4,6.0,17,No
+E10377,38,Research & Development,1,6655,No,2,6.6,19,No
+E10378,42,Research & Development,1,8919,No,2,12.4,29,No
+E10379,54,Finance,1,5804,No,3,5.9,11,Yes
+E10380,22,Sales,2,6634,No,2,3.0,13,No
+E10381,20,Research & Development,3,11156,No,1,1.0,15,Yes
+E10382,56,Operations,2,5191,No,3,0.2,20,No
+E10383,31,Sales,2,6908,No,2,4.1,17,No
+E10384,53,Sales,2,8282,No,2,15.9,17,No
+E10385,31,Research & Development,1,7789,No,3,1.9,21,No
+E10386,54,Human Resources,1,5319,No,2,8.3,25,Yes
+E10387,60,IT,5,14738,No,1,0.8,9,No
+E10388,57,IT,1,6681,Yes,4,8.0,22,No
+E10389,29,IT,4,13344,Yes,2,5.9,20,No
+E10390,41,Operations,2,5913,No,3,10.1,18,Yes
+E10391,21,Human Resources,1,4693,No,4,2.0,7,Yes
+E10392,30,Operations,1,4796,No,1,1.0,21,No
+E10393,37,IT,1,7308,No,1,8.9,23,No
+E10394,21,Research & Development,1,7282,No,3,2.0,10,Yes
+E10395,46,Sales,2,7363,No,1,6.9,7,No
+E10396,27,IT,2,6348,No,3,7.2,11,No
+E10397,26,Sales,2,7787,No,4,7.0,3,Yes
+E10398,46,Finance,2,10403,No,4,3.4,25,No
+E10399,54,Operations,1,5497,No,3,14.2,2,No
+E10400,60,Research & Development,1,6737,No,4,10.3,8,No
+E10401,28,Finance,5,11973,Yes,2,0.9,18,No
+E10402,51,Sales,1,5534,No,3,1.8,5,No
+E10403,48,Research & Development,3,9531,No,4,11.4,10,No
+E10404,53,Sales,2,7405,No,2,13.1,3,No
+E10405,26,Finance,3,9236,No,1,1.5,17,Yes
+E10406,39,Operations,1,5284,No,4,4.6,5,Yes
+E10407,56,IT,1,7670,No,1,10.8,10,Yes
+E10408,43,Research & Development,2,6736,No,1,2.9,4,No
+E10409,28,IT,4,12388,Yes,4,4.4,13,No
+E10410,20,Operations,1,4341,No,3,1.0,19,Yes
+E10411,49,Operations,1,3936,No,3,2.9,26,No
+E10412,22,Finance,1,5913,No,3,3.0,20,Yes
+E10413,54,Research & Development,4,12382,No,2,9.0,27,Yes
+E10414,46,Research & Development,1,7873,No,4,2.9,7,No
+E10415,30,Operations,1,3873,No,3,5.5,2,No
+E10416,28,IT,2,9441,No,2,3.2,11,No
+E10417,23,Research & Development,3,13430,No,1,3.1,28,Yes
+E10418,33,Operations,2,6458,No,2,2.1,17,No
+E10419,44,Sales,1,5707,No,2,0.4,15,Yes
+E10420,32,Operations,2,6016,No,4,13.0,13,No
+E10421,40,IT,1,5662,No,3,15.6,22,No
+E10422,45,Sales,1,5700,Yes,4,15.3,9,No
+E10423,39,IT,5,14394,Yes,4,0.2,27,No
+E10424,30,Sales,2,7410,No,3,0.6,26,No
+E10425,52,Finance,1,8355,Yes,2,0.5,6,Yes
+E10426,49,Research & Development,4,13827,No,1,14.4,9,No
+E10427,38,Research & Development,5,15367,Yes,1,0.8,12,No
+E10428,27,IT,3,12083,No,2,1.2,21,No
+E10429,40,Research & Development,1,5873,No,1,5.6,26,No
+E10430,34,IT,1,5688,No,2,9.4,19,No
+E10431,39,Sales,2,6505,Yes,2,20.0,16,No
+E10432,25,Operations,2,5552,No,1,6.0,12,No
+E10433,38,Operations,4,9318,No,3,4.2,27,No
+E10434,22,Finance,5,12822,No,4,1.6,3,No
+E10435,36,Sales,4,11754,Yes,3,10.4,25,No
+E10436,48,Research & Development,1,8282,Yes,3,2.8,2,No
+E10437,26,Operations,2,6583,No,3,7.0,29,No
+E10438,25,Operations,1,4519,No,2,3.9,7,Yes
+E10439,32,Sales,2,7316,No,4,13.0,20,No
+E10440,57,Operations,1,5199,No,3,6.2,1,No
+E10441,30,Sales,1,4670,No,3,3.0,2,No
+E10442,58,Sales,1,5580,No,4,21.2,26,No
+E10443,30,Human Resources,1,5363,No,3,2.6,27,No
+E10444,22,Sales,1,5495,Yes,2,3.0,7,No
+E10445,52,Research & Development,3,12850,Yes,3,1.3,6,No
+E10446,24,IT,1,7552,Yes,3,0.2,7,No
+E10447,24,Operations,1,4269,Yes,3,5.0,5,No
+E10448,41,Operations,2,6116,Yes,3,0.3,1,No
+E10449,28,IT,2,7543,No,3,5.7,11,No
+E10450,44,Research & Development,3,11564,No,1,8.8,8,No
+E10451,41,Operations,3,6553,No,4,11.1,7,No
+E10452,49,IT,2,9313,No,4,14.7,10,Yes
+E10453,32,Operations,2,6307,Yes,1,1.4,5,No
+E10454,31,Operations,3,8166,No,1,12.0,6,No
+E10455,29,Research & Development,1,6882,No,3,10.0,19,Yes
+E10456,50,Operations,1,3910,No,1,6.7,22,No
+E10457,35,Research & Development,3,13103,Yes,1,10.9,27,Yes
+E10458,54,IT,1,6455,No,4,3.4,9,No
+E10459,40,Research & Development,2,10380,No,1,1.1,8,No
+E10460,52,Research & Development,1,7366,No,1,1.0,12,Yes
+E10461,47,IT,2,9062,Yes,4,3.5,11,No
+E10462,48,Research & Development,3,13186,No,4,3.6,6,No
+E10463,59,Research & Development,2,9272,No,2,1.4,19,No
+E10464,38,IT,2,9793,Yes,4,13.0,7,No
+E10465,54,Research & Development,1,5756,No,3,1.2,9,Yes
+E10466,53,Human Resources,3,8430,No,2,4.2,19,No
+E10467,37,IT,2,8141,Yes,1,0.1,15,No
+E10468,48,Research & Development,2,8765,No,3,3.4,8,No
+E10469,38,Operations,4,8611,Yes,3,2.1,27,Yes
+E10470,47,Sales,3,8612,No,2,12.0,3,No
+E10471,37,Research & Development,5,17527,No,1,4.2,4,No
+E10472,40,Human Resources,2,4889,Yes,3,4.6,12,No
+E10473,29,Operations,4,8647,No,3,2.2,16,No
+E10474,46,Operations,2,5508,No,3,1.1,21,No
+E10475,59,Operations,3,8337,No,4,8.6,7,No
+E10476,34,Operations,3,6943,No,1,3.2,21,No
+E10477,22,Operations,1,4998,Yes,3,1.8,23,No
+E10478,49,Research & Development,2,8483,Yes,2,11.2,2,Yes
+E10479,28,Sales,2,7358,No,3,0.1,7,No
+E10480,48,Research & Development,1,7857,Yes,3,15.9,24,No
+E10481,47,Research & Development,3,10296,No,3,2.1,24,No
+E10482,58,Research & Development,3,10876,Yes,2,5.8,27,No
+E10483,44,Finance,4,9618,No,2,20.5,12,No
+E10484,24,Research & Development,1,7261,Yes,3,4.3,7,No
+E10485,31,Research & Development,2,9823,Yes,4,5.2,27,No
+E10486,31,Research & Development,4,11868,Yes,4,6.3,18,No
+E10487,58,Operations,2,6836,No,2,4.7,11,No
+E10488,55,Finance,3,7405,No,2,8.9,16,Yes
+E10489,36,Human Resources,2,4891,No,2,1.2,15,No
+E10490,55,Research & Development,1,5837,Yes,4,2.6,7,No
+E10491,44,Sales,1,5044,No,3,10.3,4,Yes
+E10492,32,Human Resources,1,4955,No,2,4.4,29,Yes
+E10493,23,Research & Development,2,8824,No,4,4.0,9,No
+E10494,57,Operations,1,4700,No,4,1.4,28,No
+E10495,56,Sales,3,8986,No,3,5.1,13,No
+E10496,50,Human Resources,5,9735,Yes,4,17.4,13,No
+E10497,24,Research & Development,1,5942,No,3,3.0,26,No
+E10498,42,Research & Development,1,5959,Yes,1,6.9,18,No
+E10499,36,Sales,1,6714,Yes,1,1.0,18,No
+E10500,47,Research & Development,4,9127,No,4,7.2,3,No
+E10501,56,IT,1,6453,Yes,4,13.0,24,No
+E10502,41,IT,3,11956,No,2,19.6,11,No
+E10503,58,Research & Development,1,7410,No,2,4.2,25,No
+E10504,27,IT,1,5936,No,3,8.0,24,No
+E10505,57,Research & Development,1,7006,No,3,1.0,3,No
+E10506,55,Research & Development,3,11933,No,3,13.5,19,No
+E10507,53,Operations,1,5425,Yes,3,4.7,10,No
+E10508,59,Sales,4,8675,Yes,3,3.2,18,No
+E10509,29,Research & Development,2,9721,No,4,10.0,25,Yes
+E10510,27,Operations,1,4882,Yes,1,0.5,24,Yes
+E10511,21,IT,1,7466,Yes,1,0.1,22,Yes
+E10512,51,Sales,2,7949,No,4,2.8,5,No
+E10513,38,IT,2,8039,No,1,10.3,17,No
+E10514,31,IT,1,5445,No,1,12.0,14,No
+E10515,22,Research & Development,1,7337,Yes,2,3.0,12,No
+E10516,30,Sales,2,8264,No,2,0.1,18,No
+E10517,59,Operations,4,9310,No,1,3.4,15,No
+E10518,22,Sales,2,7000,No,1,1.9,23,Yes
+E10519,20,Operations,3,9421,No,3,1.0,1,Yes
+E10520,30,Research & Development,2,7796,Yes,3,3.8,27,No
+E10521,33,Operations,2,6679,No,1,4.3,4,No
+E10522,28,Sales,2,6346,No,1,0.0,14,Yes
+E10523,28,Research & Development,3,10876,Yes,1,2.7,11,Yes
+E10524,42,Research & Development,2,9004,No,1,2.1,11,Yes
+E10525,20,Operations,3,8643,No,3,1.0,5,No
+E10526,60,Sales,1,4754,No,4,5.1,17,No
+E10527,40,Finance,1,5976,No,1,2.2,7,Yes
+E10528,35,Research & Development,4,10285,No,1,0.9,18,No
+E10529,23,Research & Development,2,9429,No,4,1.7,24,No
+E10530,28,Sales,3,7813,No,2,8.5,1,Yes
+E10531,56,Sales,4,10216,Yes,2,8.6,23,Yes
+E10532,33,Research & Development,2,7761,Yes,4,3.0,26,No
+E10533,48,IT,1,6308,No,2,10.9,22,No
+E10534,26,Operations,3,8226,No,4,3.8,24,No
+E10535,35,Sales,2,6670,No,3,3.7,17,Yes
+E10536,33,Sales,1,5758,Yes,1,0.0,11,Yes
+E10537,54,Research & Development,4,13522,No,4,21.4,27,No
+E10538,36,IT,2,8029,No,4,0.4,18,No
+E10539,52,Research & Development,1,5693,No,2,8.9,7,No
+E10540,57,Finance,1,7141,No,3,0.5,20,No
+E10541,33,Operations,1,4835,No,1,7.3,18,No
+E10542,28,Operations,2,6737,No,1,9.0,25,Yes
+E10543,54,IT,3,7718,Yes,2,15.4,13,Yes
+E10544,58,IT,1,5283,No,2,1.5,7,No
+E10545,58,Research & Development,1,5203,No,4,4.2,28,No
+E10546,25,Sales,2,6095,No,2,0.6,27,No
+E10547,45,Research & Development,2,10022,No,4,2.1,10,No
+E10548,24,Research & Development,2,9513,No,3,5.0,5,No
+E10549,34,Sales,3,8234,No,1,6.3,7,No
+E10550,36,Research & Development,4,12916,Yes,1,0.3,7,Yes
+E10551,56,Operations,5,10793,Yes,1,3.8,23,Yes
+E10552,50,Sales,3,7968,No,4,1.6,18,No
+E10553,58,Sales,1,5611,Yes,2,0.5,24,No
+E10554,54,Sales,1,5446,Yes,2,4.0,2,Yes
+E10555,34,Research & Development,2,6570,No,2,15.0,21,No
+E10556,55,Finance,5,12714,No,3,6.8,11,No
+E10557,23,Sales,1,6229,Yes,3,4.0,23,No
+E10558,28,Sales,2,6488,Yes,3,1.9,18,Yes
+E10559,55,Sales,2,6695,No,3,4.3,6,No
+E10560,22,Research & Development,2,8259,No,4,3.0,23,No
+E10561,47,Sales,1,5045,No,3,0.8,18,No
+E10562,56,Research & Development,1,7949,No,1,6.0,25,No
+E10563,29,Sales,1,5184,No,2,2.7,16,No
+E10564,48,Sales,1,4699,No,1,11.2,27,No
+E10565,43,IT,2,5254,Yes,2,8.0,27,Yes
+E10566,48,Sales,2,6344,No,3,13.4,25,No
+E10567,32,Operations,3,5588,No,4,3.0,12,No
+E10568,24,Research & Development,2,6958,Yes,4,0.2,26,Yes
+E10569,57,Research & Development,5,16015,No,1,0.4,8,No
+E10570,24,IT,1,7153,Yes,2,2.1,28,No
+E10571,34,Sales,4,7487,Yes,1,1.8,9,No
+E10572,20,Finance,2,8952,Yes,2,1.0,10,Yes
+E10573,28,Human Resources,2,6635,No,1,0.7,15,No
+E10574,46,Operations,3,6626,No,4,9.4,6,Yes
+E10575,21,Sales,2,7412,Yes,4,2.0,29,Yes
+E10576,28,Operations,2,4850,No,4,2.2,14,No
+E10577,34,Operations,2,5155,No,3,2.9,21,No
+E10578,33,IT,1,5453,No,1,3.0,26,No
+E10579,60,Sales,2,5903,No,3,2.2,21,No
+E10580,27,Finance,1,7059,No,1,1.1,4,No
+E10581,28,Human Resources,1,4153,No,3,1.4,14,Yes
+E10582,51,Sales,2,5871,No,3,11.8,20,No
+E10583,38,Research & Development,5,12950,No,4,3.6,12,No
+E10584,40,Sales,5,11442,Yes,2,7.9,23,No
+E10585,59,IT,1,6323,No,3,21.3,28,No
+E10586,28,Finance,1,7047,No,4,0.7,15,No
+E10587,20,Finance,2,7429,No,2,1.0,14,Yes
+E10588,56,Operations,2,5094,No,4,1.0,20,No
+E10589,32,Operations,1,4451,No,1,0.5,4,Yes
+E10590,33,Operations,3,7345,No,4,0.6,17,No
+E10591,53,Operations,3,6494,Yes,2,0.7,23,Yes
+E10592,45,Finance,2,8389,Yes,2,11.4,7,No
+E10593,23,Operations,2,7336,Yes,1,1.6,6,Yes
+E10594,56,Research & Development,2,8279,Yes,2,0.1,14,Yes
+E10595,58,Research & Development,2,8947,Yes,4,6.0,12,Yes
+E10596,20,Sales,4,11291,No,4,1.0,18,No
+E10597,54,IT,4,11023,No,4,8.9,18,Yes
+E10598,27,Operations,5,8872,No,4,2.5,23,No
+E10599,25,Research & Development,3,9378,No,2,5.6,25,Yes
+E10600,51,Human Resources,1,5173,No,4,0.3,20,Yes
+E10601,44,IT,2,8888,No,3,4.0,1,No
+E10602,37,Research & Development,3,10600,No,1,16.7,25,No
+E10603,42,Sales,1,5373,No,2,1.3,19,No
+E10604,28,Sales,2,7840,No,4,2.4,19,No
+E10605,48,Sales,1,5902,No,3,0.3,4,No
+E10606,34,Research & Development,1,5810,No,1,6.5,2,No
+E10607,32,Research & Development,2,8876,No,4,0.8,19,No
+E10608,42,Finance,1,6451,Yes,4,0.8,6,No
+E10609,35,Sales,2,7383,No,2,0.6,18,No
+E10610,22,Human Resources,1,4798,Yes,3,3.0,29,No
+E10611,29,Operations,4,7911,No,3,6.9,15,No
+E10612,60,Human Resources,1,4657,No,1,2.6,25,No
+E10613,31,Research & Development,2,6980,No,3,1.4,13,No
+E10614,36,Sales,3,8216,Yes,1,3.6,4,No
+E10615,27,IT,2,7756,No,4,1.8,16,No
+E10616,22,Sales,1,5638,Yes,1,2.6,19,No
+E10617,57,Sales,1,4678,No,1,2.4,28,No
+E10618,44,IT,2,7915,No,2,0.3,17,No
+E10619,56,Operations,1,4164,No,3,3.8,11,No
+E10620,54,Sales,1,4651,No,1,16.3,6,Yes
+E10621,34,Sales,2,7357,No,1,3.3,14,No
+E10622,39,Finance,2,7636,Yes,4,3.9,13,No
+E10623,48,Sales,1,5620,No,3,0.2,5,No
+E10624,51,Operations,2,5192,No,1,1.0,5,Yes
+E10625,40,Sales,2,6862,Yes,4,3.4,12,No
+E10626,21,IT,1,5227,No,4,2.0,20,No
+E10627,31,Sales,1,5025,No,3,8.6,2,Yes
+E10628,32,Research & Development,1,6550,Yes,1,11.6,20,Yes
+E10629,34,Sales,4,10359,Yes,1,15.0,27,Yes
+E10630,44,Operations,1,4818,Yes,1,16.8,17,No
+E10631,59,Human Resources,1,4816,No,4,2.3,11,No
+E10632,26,Sales,1,5868,Yes,3,7.0,8,No
+E10633,33,Sales,3,8417,No,3,5.1,28,No
+E10634,30,IT,3,10782,No,3,8.3,3,No
+E10635,43,Operations,1,5150,Yes,3,3.4,4,Yes
+E10636,53,Research & Development,4,12550,No,3,18.0,10,No
+E10637,58,Operations,3,7019,No,4,0.3,20,No
+E10638,40,Research & Development,1,7242,No,4,6.8,26,No
+E10639,32,Human Resources,4,8480,No,3,8.2,18,No
+E10640,28,Research & Development,1,7293,No,3,7.4,11,No
+E10641,53,IT,3,11474,No,1,0.6,20,No
+E10642,21,Operations,1,5198,No,2,2.0,6,No
+E10643,24,IT,2,7956,No,2,5.0,24,Yes
+E10644,22,Research & Development,2,7488,Yes,4,3.0,19,No
+E10645,50,IT,4,11823,No,3,11.3,3,No
+E10646,54,Operations,3,7164,No,3,1.4,18,No
+E10647,53,Research & Development,2,10040,No,2,12.8,22,No
+E10648,31,Sales,1,5081,Yes,4,6.1,12,No
+E10649,54,Finance,2,7874,No,1,2.7,1,No
+E10650,20,Operations,1,5129,No,2,1.0,25,No
+E10651,59,Sales,5,10478,No,2,3.8,9,No
+E10652,44,IT,3,9925,Yes,4,8.4,3,No
+E10653,49,Sales,2,8173,Yes,1,30.0,25,Yes
+E10654,23,Research & Development,1,8215,No,1,4.0,26,Yes
+E10655,60,Human Resources,3,8165,No,1,0.2,17,Yes
+E10656,36,Research & Development,1,7190,No,3,6.9,18,Yes
+E10657,31,Research & Development,3,9496,No,1,9.1,27,Yes
+E10658,54,Research & Development,2,9453,No,4,3.2,27,Yes
+E10659,41,Sales,2,6821,Yes,3,0.9,25,Yes
+E10660,25,Sales,3,8440,Yes,1,6.0,4,Yes
+E10661,28,Sales,2,6350,No,2,7.5,13,No
+E10662,34,Sales,1,5318,Yes,1,3.0,17,Yes
+E10663,23,Sales,2,6623,No,1,2.0,9,Yes
+E10664,40,Research & Development,1,7229,No,1,3.0,21,No
+E10665,37,Sales,1,6242,No,3,7.4,6,No
+E10666,46,IT,2,8699,Yes,1,12.9,10,No
+E10667,49,Finance,3,7844,No,3,8.5,2,No
+E10668,25,Sales,1,4703,No,3,2.5,6,No
+E10669,51,Operations,2,4849,No,4,4.4,21,No
+E10670,53,Research & Development,5,13148,Yes,1,1.3,12,No
+E10671,20,Sales,3,8774,No,1,1.0,24,No
+E10672,51,Sales,4,10135,No,2,1.4,6,No
+E10673,58,Human Resources,2,5801,No,3,8.3,2,No
+E10674,36,Research & Development,2,9141,No,1,2.5,7,Yes
+E10675,30,IT,2,7576,No,2,4.5,15,No
+E10676,42,Sales,2,5614,No,3,5.9,20,No
+E10677,31,Operations,2,4977,No,2,3.4,25,Yes
+E10678,28,Human Resources,1,4407,Yes,4,3.3,21,Yes
+E10679,54,Human Resources,1,5757,No,2,5.5,19,No
+E10680,44,Sales,1,4465,No,3,11.6,4,Yes
+E10681,56,Research & Development,1,8006,Yes,3,3.1,13,No
+E10682,49,Research & Development,3,12468,Yes,1,6.5,23,No
+E10683,50,IT,2,8152,Yes,3,2.3,28,No
+E10684,52,Sales,1,5293,Yes,4,19.7,5,Yes
+E10685,33,Sales,3,7612,Yes,4,12.8,13,Yes
+E10686,25,IT,1,6533,No,1,0.8,2,No
+E10687,38,Research & Development,4,13643,No,3,17.9,10,Yes
+E10688,59,Research & Development,2,8864,No,3,2.6,23,No
+E10689,54,Finance,2,9043,No,2,0.3,15,No
+E10690,49,Research & Development,2,10120,No,2,10.7,29,No
+E10691,34,Sales,3,8558,No,4,0.7,11,No
+E10692,28,Research & Development,1,7236,Yes,2,9.0,19,No
+E10693,53,Sales,1,5284,No,1,1.5,12,No
+E10694,38,Sales,2,7053,No,4,1.0,29,Yes
+E10695,52,Operations,1,4077,No,4,19.9,15,No
+E10696,28,Finance,2,8466,No,3,1.9,20,No
+E10697,39,Operations,2,6137,No,3,1.0,3,No
+E10698,52,Operations,1,4219,No,4,12.2,1,No
+E10699,56,Research & Development,5,18297,Yes,2,0.0,18,No
+E10700,21,Operations,2,5287,No,4,2.0,28,No
+E10701,35,IT,1,5865,No,4,1.4,17,No
+E10702,30,Operations,3,7512,No,3,2.3,14,No
+E10703,50,IT,2,6386,No,1,8.7,21,No
+E10704,51,Operations,3,6575,No,2,13.8,25,No
+E10705,46,Sales,3,6706,No,1,5.8,8,No
+E10706,50,Operations,5,8683,No,2,23.1,9,No
+E10707,33,Research & Development,1,6848,Yes,2,0.2,2,No
+E10708,22,Sales,5,11537,Yes,3,3.0,17,No
+E10709,41,Operations,2,6784,Yes,3,14.2,21,Yes
+E10710,20,IT,1,7186,No,4,1.0,21,No
+E10711,44,Sales,1,6082,No,3,0.3,11,Yes
+E10712,44,Operations,1,5042,No,3,1.4,23,No
+E10713,42,IT,4,11220,Yes,2,3.3,18,No
+E10714,54,Research & Development,2,10041,No,3,0.2,9,No
+E10715,24,Sales,1,5008,Yes,3,0.6,8,Yes
+E10716,36,Research & Development,3,9947,No,3,14.9,8,No
+E10717,60,Operations,2,7091,No,4,16.3,11,No
+E10718,30,Operations,3,7957,Yes,1,1.3,12,No
+E10719,59,Operations,1,4832,Yes,4,3.7,8,No
+E10720,20,Sales,4,10537,No,4,1.0,17,Yes
+E10721,21,IT,4,13150,No,3,0.8,15,No
+E10722,28,Finance,1,5301,No,3,8.0,19,No
+E10723,58,Sales,2,6691,No,2,1.2,19,No
+E10724,46,Sales,1,4564,Yes,2,2.9,5,No
+E10725,41,Sales,2,6867,No,2,7.5,7,No
+E10726,25,Human Resources,1,4514,No,2,6.0,8,No
+E10727,25,Finance,4,13405,Yes,4,0.2,10,No
+E10728,55,Sales,1,5653,No,2,4.0,25,No
+E10729,53,Research & Development,2,7982,No,4,2.9,14,No
+E10730,22,Sales,2,6752,No,4,0.8,12,No
+E10731,37,Research & Development,1,5940,No,4,2.5,21,Yes
+E10732,42,Finance,1,6375,No,4,4.3,12,No
+E10733,49,Sales,4,10297,No,2,4.7,11,No
+E10734,20,Sales,1,5489,Yes,2,1.0,24,Yes
+E10735,53,Research & Development,1,5337,No,2,5.0,2,No
+E10736,41,Research & Development,1,6676,No,3,6.0,2,No
+E10737,42,IT,2,8839,Yes,2,5.5,16,Yes
+E10738,34,Research & Development,1,7214,No,4,15.0,7,No
+E10739,22,Sales,1,6064,No,4,3.0,14,Yes
+E10740,58,Research & Development,2,7475,Yes,2,11.4,6,Yes
+E10741,53,Finance,3,10410,No,4,3.6,29,No
+E10742,53,IT,3,9313,No,3,6.8,15,No
+E10743,48,Sales,2,6925,Yes,3,0.8,17,No
+E10744,39,IT,1,6868,No,3,4.4,14,No
+E10745,57,Research & Development,1,7533,Yes,2,7.7,2,No
+E10746,24,IT,2,7747,No,1,5.0,6,No
+E10747,31,Sales,2,6917,No,3,0.1,19,Yes
+E10748,38,Human Resources,2,5364,No,2,1.3,27,Yes
+E10749,52,Sales,5,9212,No,2,17.5,3,No
+E10750,33,Research & Development,1,7422,No,2,0.6,6,No
+E10751,55,Operations,3,7216,No,3,2.7,11,No
+E10752,32,Research & Development,3,8638,Yes,4,8.4,9,No
+E10753,34,Sales,4,8666,Yes,1,9.2,2,No
+E10754,33,Sales,4,9679,No,3,5.0,28,No
+E10755,36,Research & Development,1,8262,No,1,0.1,18,No
+E10756,53,Sales,4,10875,No,2,3.9,9,No
+E10757,33,Sales,2,7417,No,2,4.7,6,Yes
+E10758,40,Sales,2,5306,No,3,21.0,14,No
+E10759,20,Research & Development,5,14348,No,2,1.0,28,No
+E10760,42,Research & Development,2,9356,No,4,4.7,22,No
+E10761,29,Operations,2,6269,No,1,10.0,6,No
+E10762,40,Research & Development,1,7305,No,1,10.5,13,No
+E10763,33,Sales,2,6574,No,4,9.3,29,Yes
+E10764,35,Research & Development,1,8432,No,2,1.7,29,No
+E10765,24,IT,2,9810,No,3,1.8,27,No
+E10766,38,Sales,1,5258,No,2,0.9,15,No
+E10767,51,Research & Development,5,12799,No,2,5.5,16,Yes
+E10768,44,IT,2,10391,No,1,25.0,8,No
+E10769,37,Research & Development,3,10020,No,4,3.0,14,No
+E10770,54,Human Resources,1,5619,No,2,9.3,22,No
+E10771,43,Finance,1,7804,No,1,5.3,12,No
+E10772,45,Research & Development,4,11188,No,4,3.3,27,No
+E10773,31,IT,1,6776,No,2,0.0,22,No
+E10774,48,Sales,5,10635,No,1,14.9,7,Yes
+E10775,34,Sales,2,7185,No,4,3.5,6,No
+E10776,27,Research & Development,2,9188,No,1,1.7,16,No
+E10777,50,Operations,2,7390,Yes,4,0.9,11,No
+E10778,43,Finance,2,8640,Yes,4,3.4,26,No
+E10779,39,Sales,2,6757,No,4,3.6,2,Yes
+E10780,49,Operations,2,6798,No,2,28.2,23,Yes
+E10781,44,Research & Development,3,10383,No,1,8.0,13,No
+E10782,51,Sales,1,5084,No,1,6.0,25,No
+E10783,37,Finance,1,8056,No,3,1.2,6,No
+E10784,60,Operations,2,5390,No,2,14.2,10,No
+E10785,42,Sales,1,5004,No,1,3.5,27,Yes
+E10786,39,Finance,2,8108,No,3,1.1,4,Yes
+E10787,56,Sales,2,5900,Yes,1,2.8,14,Yes
+E10788,60,Sales,3,6118,No,4,1.8,28,Yes
+E10789,30,Research & Development,1,7842,No,4,11.0,7,No
+E10790,29,Finance,2,7300,No,3,10.0,20,No
+E10791,41,Sales,3,7673,Yes,1,0.1,8,Yes
+E10792,22,Finance,1,6056,Yes,3,1.2,19,No
+E10793,48,Operations,3,6401,No,1,4.0,6,No
+E10794,47,Sales,3,7144,Yes,1,2.7,12,Yes
+E10795,23,Operations,1,4796,No,1,0.5,3,No
+E10796,31,Research & Development,2,11408,Yes,1,1.2,8,No
+E10797,59,Operations,3,7909,No,3,1.9,2,No
+E10798,27,IT,2,9076,No,4,0.8,3,No
+E10799,40,Operations,2,4895,No,3,5.0,21,No
+E10800,47,Finance,5,13197,Yes,1,1.3,4,Yes
+E10801,30,Sales,2,5797,Yes,1,1.6,4,No
+E10802,33,IT,2,9102,No,3,1.7,18,No
+E10803,51,Research & Development,3,10440,No,2,9.4,25,No
+E10804,37,IT,2,8363,No,2,1.6,13,No
+E10805,53,Human Resources,1,4857,No,4,11.9,29,No
+E10806,22,Finance,1,5894,No,4,3.0,28,No
+E10807,45,Sales,2,5520,No,1,2.9,27,No
+E10808,33,Research & Development,4,13511,No,1,5.0,3,No
+E10809,57,Finance,2,6717,No,1,5.1,6,No
+E10810,38,Finance,1,5436,No,3,1.8,24,No
+E10811,23,Research & Development,5,13994,Yes,3,4.0,23,Yes
+E10812,54,Finance,2,7376,No,4,0.0,25,No
+E10813,41,Research & Development,1,7174,Yes,1,1.9,18,Yes
+E10814,22,Research & Development,2,9925,No,3,3.0,28,No
+E10815,50,IT,1,6742,No,3,1.7,28,No
+E10816,43,Research & Development,1,7120,No,3,15.6,4,No
+E10817,57,Research & Development,3,10766,No,2,5.4,9,Yes
+E10818,48,Research & Development,3,11849,Yes,1,0.3,17,Yes
+E10819,46,Research & Development,5,11278,No,1,3.0,18,No
+E10820,29,Sales,1,5554,No,4,5.4,5,No
+E10821,44,Sales,4,8567,No,3,7.2,18,No
+E10822,26,IT,3,8598,No,4,2.6,29,No
+E10823,35,Operations,1,4707,Yes,4,0.2,6,Yes
+E10824,37,Operations,2,5703,No,4,0.7,27,No
+E10825,43,IT,2,8911,Yes,2,10.1,18,No
+E10826,28,Sales,1,6026,No,2,1.4,10,No
+E10827,42,Sales,1,3823,Yes,1,1.1,22,Yes
+E10828,33,Sales,3,8138,No,1,6.9,11,No
+E10829,57,Research & Development,1,8600,No,4,8.6,24,No
+E10830,60,IT,2,9197,No,1,2.6,19,No
+E10831,53,Research & Development,2,10391,Yes,1,12.5,25,Yes
+E10832,29,Research & Development,4,12781,No,4,3.6,13,No
+E10833,50,Operations,2,4945,No,1,9.1,1,No
+E10834,60,Sales,2,5844,No,1,1.5,10,No
+E10835,57,Sales,5,12056,Yes,2,0.5,22,Yes
+E10836,55,Operations,1,5250,No,4,3.0,1,No
+E10837,22,IT,3,9211,No,1,3.0,10,Yes
+E10838,26,Research & Development,1,6729,No,3,5.9,16,Yes
+E10839,51,Operations,3,7492,Yes,1,0.2,23,No
+E10840,32,Sales,3,6473,Yes,4,0.6,19,Yes
+E10841,39,Research & Development,3,10281,No,4,2.5,5,No
+E10842,39,Operations,2,7154,No,3,6.4,1,No
+E10843,50,Sales,1,6723,Yes,1,5.7,11,No
+E10844,50,Research & Development,2,8729,Yes,4,1.2,11,No
+E10845,32,Operations,4,10432,Yes,4,13.0,12,No
+E10846,52,Operations,1,4406,No,2,13.8,20,No
+E10847,39,Sales,1,4797,No,3,15.3,21,Yes
+E10848,43,Operations,1,3432,No,2,3.1,13,No
+E10849,53,Sales,4,10772,No,1,2.3,18,No
+E10850,31,Finance,1,6054,No,2,6.6,10,Yes
+E10851,21,Sales,1,6822,No,1,0.2,24,No
+E10852,46,Sales,1,5531,No,3,2.0,9,No
+E10853,31,Sales,4,9876,No,3,5.0,1,No
+E10854,30,Finance,2,6305,No,3,3.1,7,Yes
+E10855,40,Research & Development,3,12683,No,3,2.7,9,No
+E10856,55,Operations,3,6944,No,2,3.5,7,No
+E10857,54,Finance,2,7908,Yes,1,3.0,22,No
+E10858,49,Finance,3,7179,No,1,13.9,9,No
+E10859,31,Sales,2,7522,No,2,2.1,7,No
+E10860,58,Research & Development,2,9903,No,2,2.7,20,No
+E10861,53,Operations,1,4361,Yes,4,1.0,25,Yes
+E10862,21,Operations,1,4758,No,3,2.0,12,Yes
+E10863,30,Research & Development,2,9266,No,3,11.0,10,Yes
+E10864,24,Research & Development,1,7765,Yes,2,5.0,21,No
+E10865,32,Sales,1,5386,No,3,0.3,20,No
+E10866,47,Sales,4,11668,No,2,4.5,16,No
+E10867,42,Operations,1,4568,Yes,4,7.5,2,Yes
+E10868,25,Sales,1,4930,No,1,0.5,29,No
+E10869,46,Sales,2,6384,No,1,3.1,27,No
+E10870,44,Research & Development,2,6135,Yes,4,5.2,26,Yes
+E10871,56,Sales,1,4801,Yes,2,2.0,4,Yes
+E10872,32,Sales,1,5967,Yes,3,8.7,13,No
+E10873,56,Finance,2,8326,No,4,5.7,12,Yes
+E10874,46,Research & Development,1,6269,No,4,6.4,26,Yes
+E10875,30,Sales,5,11575,No,2,7.8,12,Yes
+E10876,33,Operations,3,5494,No,2,2.2,20,No
+E10877,50,Sales,2,6534,No,2,15.3,9,No
+E10878,48,Sales,4,10272,No,1,8.8,25,No
+E10879,46,Finance,1,6879,Yes,4,1.6,16,No
+E10880,36,Human Resources,1,4452,No,4,11.2,9,No
+E10881,35,Operations,4,9488,No,4,16.0,16,No
+E10882,42,Sales,2,8296,No,2,13.0,16,No
+E10883,51,Research & Development,1,6600,Yes,4,2.9,24,Yes
+E10884,30,Sales,2,7373,Yes,4,11.0,5,Yes
+E10885,56,Sales,3,6669,No,4,3.5,29,No
+E10886,28,Sales,2,5164,No,3,2.7,3,No
+E10887,39,Sales,1,5715,Yes,2,5.0,24,Yes
+E10888,32,Operations,1,4732,No,2,3.6,2,No
+E10889,57,Sales,2,6932,Yes,3,11.6,21,Yes
+E10890,27,Sales,1,4947,No,2,8.0,15,No
+E10891,25,Finance,1,6120,No,1,4.3,6,Yes
+E10892,48,Research & Development,2,9718,No,2,1.0,16,No
+E10893,26,Research & Development,2,10689,Yes,2,4.5,7,No
+E10894,60,Sales,1,5183,No,1,7.7,29,No
+E10895,51,IT,4,9522,No,1,11.4,1,No
+E10896,56,Operations,1,5433,No,4,0.1,2,No
+E10897,32,Operations,4,9171,No,3,1.4,3,No
+E10898,50,Operations,2,6482,No,2,4.6,21,No
+E10899,43,Sales,2,6919,No,4,0.6,23,No
+E10900,37,Sales,2,8669,No,3,3.3,13,No
+E10901,40,Operations,2,6043,No,4,0.2,2,No
+E10902,20,Finance,1,6741,No,1,1.0,26,Yes
+E10903,25,IT,1,5085,Yes,2,0.7,8,Yes
+E10904,25,Operations,4,7951,No,1,4.6,9,No
+E10905,50,Research & Development,1,6383,No,3,5.8,12,No
+E10906,31,Sales,2,6746,Yes,4,11.4,6,No
+E10907,50,Human Resources,3,7904,No,2,5.0,5,No
+E10908,49,Sales,1,4841,Yes,2,6.9,16,No
+E10909,25,Sales,1,6436,No,4,0.9,10,Yes
+E10910,33,Operations,4,7449,No,1,14.0,16,Yes
+E10911,30,IT,1,6195,No,2,4.3,8,No
+E10912,24,IT,1,6740,No,2,0.6,28,No
+E10913,52,Research & Development,4,10728,No,1,11.0,12,No
+E10914,35,Sales,1,5690,Yes,2,5.2,6,No
+E10915,57,Sales,1,5730,Yes,2,6.2,6,Yes
+E10916,54,Human Resources,4,8606,No,4,4.1,11,No
+E10917,55,Finance,1,7811,Yes,1,28.9,1,Yes
+E10918,50,Sales,5,11221,No,1,3.2,25,Yes
+E10919,40,Human Resources,3,7843,No,2,0.4,27,Yes
+E10920,37,Research & Development,3,9499,No,1,0.5,22,No
+E10921,35,Research & Development,1,5553,Yes,2,3.5,22,Yes
+E10922,45,Research & Development,1,6430,Yes,4,3.0,5,No
+E10923,38,Sales,3,7898,No,2,13.6,23,No
+E10924,55,Research & Development,3,10154,No,3,14.2,23,No
+E10925,27,Sales,1,5817,No,3,0.1,8,Yes
+E10926,34,Operations,1,3351,No,3,3.3,20,No
+E10927,40,Research & Development,1,6007,No,4,0.8,28,Yes
+E10928,31,Human Resources,1,3829,No,3,12.0,15,No
+E10929,29,Human Resources,2,7262,No,4,9.0,25,No
+E10930,43,Research & Development,2,8249,Yes,4,3.1,29,No
+E10931,26,Research & Development,2,8303,No,3,4.6,12,No
+E10932,52,Finance,1,5502,No,2,0.4,7,No
+E10933,35,Research & Development,1,7718,Yes,2,1.1,9,Yes
+E10934,50,Sales,1,5058,No,1,4.4,16,No
+E10935,22,Sales,1,5466,No,1,3.0,23,Yes
+E10936,52,Finance,1,4787,Yes,1,10.4,22,No
+E10937,39,Operations,4,9760,No,3,2.2,1,No
+E10938,54,Sales,1,5577,Yes,1,13.8,21,Yes
+E10939,48,Research & Development,1,7426,No,1,0.4,17,Yes
+E10940,52,Research & Development,2,10177,No,1,0.8,2,No
+E10941,46,Research & Development,5,14193,No,1,5.4,26,No
+E10942,24,Finance,3,9601,No,4,1.0,11,No
+E10943,59,Finance,2,8774,No,3,40.0,27,No
+E10944,36,Sales,1,5598,No,3,16.1,19,No
+E10945,56,Sales,2,6571,Yes,1,2.0,27,No
+E10946,40,Research & Development,1,6999,No,3,4.6,27,No
+E10947,45,IT,3,9499,No,4,8.1,13,Yes
+E10948,27,Operations,3,7899,Yes,2,8.0,19,No
+E10949,56,IT,2,9275,No,3,13.2,1,No
+E10950,52,Operations,4,8557,No,2,2.6,22,Yes
+E10951,38,Sales,2,8310,No,3,5.6,11,Yes
+E10952,37,IT,3,8235,Yes,3,3.4,12,Yes
+E10953,52,Sales,1,5174,No,4,14.5,8,No
+E10954,26,Operations,1,5685,No,2,7.0,23,Yes
+E10955,31,Sales,1,5053,No,1,0.4,17,Yes
+E10956,25,Research & Development,4,10196,No,4,4.5,13,No
+E10957,41,Finance,3,11454,Yes,2,4.6,22,No
+E10958,35,Research & Development,4,13476,Yes,4,1.3,14,Yes
+E10959,60,Sales,3,7033,Yes,3,3.8,29,Yes
+E10960,56,Research & Development,3,11757,No,2,7.3,20,No
+E10961,44,Operations,2,5250,No,4,10.5,10,No
+E10962,51,Sales,3,6888,No,1,8.6,22,No
+E10963,40,Sales,1,5227,No,1,12.0,11,No
+E10964,37,Sales,2,6379,Yes,2,3.8,25,No
+E10965,52,Operations,1,4085,No,3,1.1,3,No
+E10966,34,Research & Development,5,13893,No,4,3.9,12,No
+E10967,32,Research & Development,4,11107,No,4,3.2,25,Yes
+E10968,25,Research & Development,1,7014,Yes,3,0.7,9,No
+E10969,54,Operations,3,7252,No,1,2.2,15,No
+E10970,52,Sales,3,8962,Yes,3,7.0,20,Yes
+E10971,20,Finance,1,6000,No,3,1.0,7,No
+E10972,54,Finance,2,6775,Yes,4,14.8,5,No
+E10973,29,Research & Development,2,7443,Yes,3,2.3,15,No
+E10974,56,Research & Development,2,8594,Yes,4,4.9,29,No
+E10975,27,Human Resources,4,10584,Yes,2,2.1,15,No
+E10976,26,Research & Development,3,11854,No,2,7.0,14,No
+E10977,30,IT,1,6046,Yes,3,1.2,24,No
+E10978,58,Research & Development,2,9867,No,1,5.1,21,No
+E10979,58,Operations,2,5151,Yes,4,1.6,7,No
+E10980,47,Research & Development,1,7818,No,3,0.8,6,No
+E10981,20,Operations,1,4493,No,2,1.0,15,Yes
+E10982,45,Finance,1,6940,No,2,1.3,27,No
+E10983,32,Sales,1,5727,No,2,5.4,13,No
+E10984,49,IT,1,6335,Yes,1,2.3,7,No
+E10985,43,Operations,2,6230,No,3,0.0,3,No
+E10986,55,Research & Development,5,12661,No,4,8.7,8,No
+E10987,48,Research & Development,2,8779,Yes,1,15.9,5,No
+E10988,32,Sales,2,7661,Yes,4,3.1,28,Yes
+E10989,51,Sales,3,12298,No,4,5.1,7,No
+E10990,29,Operations,2,6502,Yes,1,7.3,9,Yes
+E10991,35,Sales,2,6846,Yes,1,12.9,13,Yes
+E10992,29,Operations,1,4134,No,3,1.2,6,No
+E10993,29,Finance,4,13007,Yes,4,10.0,17,No
+E10994,36,Finance,1,5077,Yes,2,11.0,19,No
+E10995,54,Human Resources,1,4439,Yes,4,1.7,22,No
+E10996,38,IT,2,8699,No,4,3.0,4,No
+E10997,25,Sales,2,5786,Yes,4,0.0,27,No
+E10998,50,Finance,3,11630,No,4,1.7,17,No
+E10999,22,Sales,1,6031,Yes,4,2.3,3,No
+E11000,43,Human Resources,4,8312,No,1,12.7,28,No
+E11001,29,Human Resources,2,5833,No,3,9.8,29,No
+E11002,57,Operations,3,6112,No,1,1.4,11,No
+E11003,40,Research & Development,2,7357,No,2,3.6,12,Yes
+E11004,36,Sales,1,5612,No,1,17.0,20,Yes
+E11005,58,Research & Development,1,7491,Yes,3,3.8,23,Yes
+E11006,38,Research & Development,2,9235,No,3,6.9,20,No
+E11007,49,Sales,2,6992,No,3,7.8,10,No
+E11008,37,Sales,2,6315,No,1,1.6,6,No
+E11009,43,IT,1,6841,No,1,0.3,22,No
+E11010,40,Finance,1,5219,No,1,12.2,13,Yes
+E11011,41,Sales,2,6781,Yes,4,1.7,20,No
+E11012,37,Sales,1,6277,Yes,3,0.2,10,Yes
+E11013,48,Sales,4,11219,No,2,14.4,1,No
+E11014,39,Sales,1,5028,No,2,0.4,26,No
+E11015,45,Sales,5,10668,No,3,0.1,26,No
+E11016,49,Operations,4,9982,No,2,2.8,5,No
+E11017,33,Research & Development,2,10776,No,2,11.0,2,No
+E11018,26,Research & Development,3,8804,No,2,5.2,12,Yes
+E11019,23,Sales,2,6425,No,2,4.0,15,No
+E11020,44,Operations,2,6163,Yes,4,0.6,21,No
+E11021,28,Research & Development,3,12339,No,4,5.3,7,No
+E11022,34,Research & Development,3,9661,Yes,3,3.2,22,Yes
+E11023,52,Research & Development,1,7507,No,4,2.3,18,No
+E11024,38,Finance,4,11111,Yes,1,3.2,13,No
+E11025,46,Sales,1,6859,No,1,2.4,6,No
+E11026,26,Operations,1,4957,No,1,0.8,12,Yes
+E11027,52,Research & Development,2,8715,Yes,4,3.2,18,Yes
+E11028,44,Human Resources,1,4717,No,4,3.8,4,No
+E11029,21,Research & Development,2,9992,No,4,2.0,23,No
+E11030,39,Research & Development,2,9588,Yes,1,6.6,3,No
+E11031,56,Human Resources,2,5434,No,3,9.6,18,No
+E11032,39,Operations,4,8780,No,1,4.2,7,No
+E11033,35,Sales,4,8103,No,3,5.6,25,No
+E11034,21,Sales,1,4839,No,2,2.0,13,No
+E11035,57,Finance,1,5355,Yes,2,4.4,12,Yes
+E11036,29,Sales,2,5687,Yes,1,2.4,26,No
+E11037,44,Research & Development,1,6387,No,3,4.7,20,No
+E11038,37,Finance,2,7119,Yes,3,16.0,7,No
+E11039,42,Sales,3,8749,No,2,7.0,13,No
+E11040,24,Sales,1,5841,Yes,1,2.8,26,Yes
+E11041,53,Sales,3,7985,No,4,8.1,27,No
+E11042,26,Sales,3,7108,No,2,3.5,17,No
+E11043,45,Research & Development,2,9723,No,3,0.3,3,No
+E11044,30,Operations,1,3557,No,2,1.6,26,No
+E11045,47,Research & Development,2,6787,No,2,13.5,26,No
+E11046,23,Sales,1,5797,No,2,4.0,3,No
+E11047,26,IT,3,10926,No,4,7.0,1,No
+E11048,57,IT,2,9323,Yes,2,1.1,7,Yes
+E11049,44,Operations,1,4589,No,4,24.6,25,No
+E11050,53,Sales,3,6967,No,4,0.7,3,Yes
+E11051,34,Operations,2,5624,Yes,1,1.0,3,No
+E11052,51,Operations,1,5036,Yes,3,7.5,27,Yes
+E11053,23,Research & Development,2,8037,No,1,1.1,21,No
+E11054,49,Human Resources,2,5722,No,1,0.6,10,No
+E11055,25,Research & Development,4,10511,No,1,0.8,3,No
+E11056,46,Research & Development,1,5984,No,2,0.9,27,Yes
+E11057,39,Sales,2,7468,No,4,4.4,23,No
+E11058,45,Operations,5,10379,Yes,1,11.0,26,No
+E11059,30,IT,2,7165,No,1,5.1,7,Yes
+E11060,24,IT,3,8797,No,2,2.7,25,Yes
+E11061,51,Sales,1,4964,Yes,2,2.1,3,No
+E11062,38,Finance,2,8615,No,1,2.0,13,No
+E11063,25,Operations,1,4045,No,3,4.5,26,No
+E11064,37,Research & Development,4,12389,No,1,9.5,11,No
+E11065,20,Research & Development,2,6558,No,2,1.0,17,No
+E11066,56,IT,1,5558,No,4,0.8,15,No
+E11067,60,Sales,1,5599,No,2,3.9,25,Yes
+E11068,36,Operations,2,6646,Yes,2,0.1,16,No
+E11069,32,Operations,1,4052,No,1,13.0,23,Yes
+E11070,45,Research & Development,2,8030,No,1,5.5,17,No
+E11071,40,Human Resources,3,8325,No,1,5.1,3,No
+E11072,51,Research & Development,1,6637,No,3,17.0,13,Yes
+E11073,28,Research & Development,1,6510,No,3,0.6,3,No
+E11074,35,Research & Development,1,7405,Yes,2,3.2,25,No
+E11075,28,Finance,1,6503,Yes,1,0.4,21,Yes
+E11076,58,Research & Development,3,12203,No,1,17.2,18,No
+E11077,36,Operations,1,5166,No,4,0.7,25,No
+E11078,46,Research & Development,3,10004,Yes,3,9.5,24,Yes
+E11079,52,Finance,1,6261,No,1,13.8,6,Yes
+E11080,45,Finance,3,9735,Yes,4,8.9,13,Yes
+E11081,21,Sales,3,6873,No,2,1.5,26,No
+E11082,60,Finance,1,5603,No,2,9.2,16,No
+E11083,54,Operations,3,8132,No,1,16.3,1,No
+E11084,32,Sales,4,7814,No,2,4.5,22,No
+E11085,60,Research & Development,2,9929,Yes,4,1.7,23,No
+E11086,56,Sales,2,7011,No,1,3.3,4,No
+E11087,42,Operations,1,4634,No,4,7.6,19,No
+E11088,37,Sales,1,5676,No,4,2.6,21,No
+E11089,34,Research & Development,3,11377,Yes,1,2.7,12,No
+E11090,30,Research & Development,3,12331,No,1,0.2,3,No
+E11091,29,Operations,1,4485,No,1,3.3,12,Yes
+E11092,25,IT,1,6377,No,3,1.4,15,No
+E11093,27,Finance,1,6164,No,1,0.9,9,No
+E11094,60,Research & Development,2,10882,No,1,4.3,15,No
+E11095,33,Operations,1,5254,Yes,3,14.0,14,No
+E11096,28,Sales,5,9879,No,4,1.5,12,No
+E11097,54,Research & Development,3,10323,No,3,10.1,15,No
+E11098,44,Finance,4,10550,No,3,1.3,16,Yes
+E11099,20,Sales,2,6789,No,3,1.0,5,No
+E11100,30,Human Resources,3,7791,Yes,2,0.7,17,Yes
+E11101,52,Operations,5,12572,Yes,2,4.6,1,No
+E11102,31,Research & Development,1,5430,Yes,3,0.1,9,No
+E11103,47,IT,2,9381,No,2,9.6,16,No
+E11104,43,Research & Development,1,7338,No,1,2.9,1,Yes
+E11105,20,Human Resources,3,6950,No,3,1.0,6,No
+E11106,25,Sales,1,5234,No,1,1.5,4,No
+E11107,22,Sales,3,7735,No,1,3.0,3,No
+E11108,53,IT,1,6600,Yes,2,0.1,9,No
+E11109,50,Research & Development,2,9945,No,4,2.6,8,Yes
+E11110,25,Sales,2,5535,Yes,3,1.3,16,Yes
+E11111,47,Research & Development,4,14667,No,4,1.0,5,No
+E11112,26,Research & Development,4,12085,Yes,3,1.1,4,No
+E11113,32,Operations,2,7088,Yes,3,6.6,26,Yes
+E11114,48,IT,3,10634,No,1,5.8,12,No
+E11115,55,Human Resources,1,5655,No,1,9.8,9,Yes
+E11116,32,Sales,1,5697,No,3,6.4,20,No
+E11117,28,Operations,3,8237,No,1,6.3,19,No
+E11118,20,Finance,4,11621,Yes,4,0.1,19,No
+E11119,37,Research & Development,3,9682,No,4,4.9,1,No
+E11120,43,IT,2,9026,No,4,2.4,17,No
+E11121,24,Sales,2,7365,No,4,5.0,20,No
+E11122,47,Human Resources,3,9527,No,3,4.8,3,No
+E11123,46,Operations,2,4547,No,3,12.5,28,No
+E11124,26,Human Resources,1,4806,Yes,3,4.0,26,Yes
+E11125,23,IT,3,11433,Yes,4,0.0,22,Yes
+E11126,28,Human Resources,1,4178,No,1,9.0,6,No
+E11127,27,Sales,4,9417,No,2,6.1,23,No
+E11128,27,Operations,3,9147,No,3,5.3,15,No
+E11129,51,Sales,3,9643,No,4,4.0,13,No
+E11130,29,Sales,3,7360,Yes,3,8.3,16,No
+E11131,40,Research & Development,5,17070,Yes,3,2.6,14,No
+E11132,51,Operations,5,11259,No,1,1.3,19,No
+E11133,47,Operations,2,6566,No,2,0.7,27,No
+E11134,37,Finance,1,6654,No,2,8.4,29,Yes
+E11135,50,Sales,3,8473,Yes,3,0.5,7,No
+E11136,20,Sales,5,9968,No,1,1.0,25,No
+E11137,44,Research & Development,2,8321,No,1,5.8,15,No
+E11138,34,IT,1,7148,No,2,12.1,5,No
+E11139,28,Operations,1,4801,Yes,2,1.1,22,Yes
+E11140,27,Research & Development,2,10856,No,1,0.1,11,Yes
+E11141,48,IT,3,9730,Yes,4,5.0,10,No
+E11142,59,Operations,4,6088,Yes,3,6.6,14,No
+E11143,24,Research & Development,1,6697,No,2,5.0,14,No
+E11144,32,Sales,2,7015,No,2,4.1,18,Yes
+E11145,31,Research & Development,2,9286,No,3,7.4,2,No
+E11146,40,Human Resources,1,4967,No,1,4.3,14,No
+E11147,38,Operations,1,4253,No,3,1.3,20,No
+E11148,47,Sales,2,8012,No,1,1.5,20,Yes
+E11149,24,Research & Development,2,8166,Yes,4,5.0,5,No
+E11150,40,Research & Development,4,13759,No,4,2.0,11,No
+E11151,24,Operations,1,4558,No,1,5.0,8,Yes
+E11152,52,Operations,3,6237,Yes,1,2.0,2,Yes
+E11153,46,Finance,1,7450,Yes,3,11.7,7,No
+E11154,56,Research & Development,2,6193,No,3,3.8,3,No
+E11155,50,Research & Development,3,9671,No,2,13.6,21,No
+E11156,48,Operations,1,4969,No,4,7.6,28,No
+E11157,35,Human Resources,4,8563,No,1,1.1,12,Yes
+E11158,54,Operations,5,10751,No,4,0.5,10,No
+E11159,35,Research & Development,5,14400,No,1,4.9,29,No
+E11160,30,IT,1,6213,No,4,11.0,18,No
+E11161,28,Research & Development,2,11194,No,3,1.8,24,No
+E11162,41,Finance,2,7884,No,1,2.0,7,No
+E11163,41,Research & Development,4,12438,No,1,0.0,27,Yes
+E11164,30,Sales,1,4644,Yes,4,5.7,6,Yes
+E11165,43,IT,1,5982,No,3,3.6,20,No
+E11166,28,Research & Development,3,11625,Yes,3,8.4,20,No
+E11167,58,Human Resources,1,5265,No,2,8.6,7,No
+E11168,21,Operations,1,4726,No,4,2.0,25,Yes
+E11169,21,Research & Development,1,6397,No,2,2.0,10,No
+E11170,33,Sales,2,7356,No,1,8.2,19,No
+E11171,57,IT,2,6648,No,4,5.8,11,No
+E11172,28,Sales,3,7908,No,1,4.8,3,No
+E11173,60,Finance,3,9535,No,1,1.6,6,No
+E11174,33,Human Resources,1,4430,No,4,1.6,8,No
+E11175,34,Research & Development,4,12920,No,3,1.9,14,Yes
+E11176,24,Sales,4,8923,No,3,5.0,11,No
+E11177,49,Human Resources,4,8091,No,2,12.0,23,No
+E11178,55,Research & Development,3,13129,No,3,3.6,13,No
+E11179,53,Sales,2,7404,Yes,1,14.6,16,No
+E11180,26,Research & Development,1,7999,No,3,2.7,24,No
+E11181,46,Sales,4,9766,No,2,1.5,5,No
+E11182,38,Research & Development,2,9924,Yes,4,2.0,20,No
+E11183,31,Operations,2,6581,No,4,3.3,22,No
+E11184,51,Finance,3,11277,No,3,4.7,19,No
+E11185,45,IT,3,13053,No,1,4.5,28,No
+E11186,55,Sales,3,8031,No,3,0.4,4,Yes
+E11187,55,Research & Development,2,9172,No,3,9.9,14,No
+E11188,55,Research & Development,2,8841,No,4,0.7,25,No
+E11189,24,Finance,3,5686,No,2,2.7,5,No
+E11190,45,Sales,2,5662,Yes,3,10.1,24,Yes
+E11191,39,Research & Development,1,7012,Yes,3,0.3,22,Yes
+E11192,27,Finance,4,12463,No,3,2.3,3,No
+E11193,20,Research & Development,3,10054,No,3,1.0,16,Yes
+E11194,28,Sales,3,9387,Yes,1,2.6,20,Yes
+E11195,54,Operations,1,5464,No,1,8.2,24,No
+E11196,48,Research & Development,1,6651,No,3,1.4,5,No
+E11197,51,Finance,4,13567,No,4,11.3,18,No
+E11198,56,Sales,4,11761,Yes,4,12.6,22,Yes
+E11199,21,Sales,1,5651,No,2,2.0,26,No
+E11200,36,Sales,2,6006,No,1,3.6,18,Yes
+E11201,50,Operations,1,5570,No,1,11.5,1,Yes
+E11202,50,Research & Development,2,8729,Yes,1,0.4,7,Yes
+E11203,48,Finance,3,9407,No,1,1.4,19,No
+E11204,25,Human Resources,1,5011,No,2,6.0,21,No
+E11205,25,Finance,3,9219,Yes,4,6.0,18,Yes
+E11206,37,Sales,4,10973,No,1,0.1,27,No
+E11207,41,Sales,1,5855,No,4,5.7,23,Yes
+E11208,33,Research & Development,3,12392,No,2,0.3,1,No
+E11209,48,Finance,1,6831,Yes,2,1.1,7,No
+E11210,29,IT,1,5963,No,4,2.1,5,Yes
+E11211,33,Sales,1,5253,Yes,2,1.5,17,Yes
+E11212,24,Operations,2,6659,Yes,4,5.0,1,No
+E11213,40,Finance,4,11028,No,3,2.2,8,No
+E11214,50,Finance,3,13312,No,1,5.9,3,No
+E11215,60,Operations,1,4600,No,1,7.4,22,No
+E11216,29,Human Resources,1,4596,No,1,4.3,25,Yes
+E11217,46,Human Resources,5,11743,Yes,4,0.7,3,Yes
+E11218,22,Research & Development,2,9707,No,1,3.0,21,No
+E11219,40,Sales,2,6789,Yes,1,12.0,5,Yes
+E11220,56,IT,1,6410,No,4,24.5,27,No
+E11221,22,Sales,3,8691,No,1,3.0,28,No
+E11222,35,Research & Development,2,9801,No,3,0.6,16,Yes
+E11223,24,Finance,2,8865,No,2,5.0,22,No
+E11224,41,Operations,1,4566,No,3,9.4,22,No
+E11225,54,Research & Development,3,11372,No,2,0.1,8,No
+E11226,39,Finance,1,7033,Yes,3,11.6,11,Yes
+E11227,50,Research & Development,1,7647,No,1,0.5,10,No
+E11228,32,Finance,2,5114,No,2,3.5,29,No
+E11229,54,Finance,3,8805,No,2,5.4,13,No
+E11230,29,Research & Development,1,6352,Yes,4,5.5,8,Yes
+E11231,43,Research & Development,1,6810,No,4,2.4,7,No
+E11232,34,Sales,1,5471,No,2,10.4,2,No
+E11233,43,Finance,2,9020,Yes,4,2.1,5,No
+E11234,31,Sales,3,8881,No,1,1.9,12,No
+E11235,41,Sales,1,5274,No,1,3.9,29,No
+E11236,31,Human Resources,2,6305,No,3,12.0,16,No
+E11237,50,Operations,2,7298,No,4,8.5,7,No
+E11238,29,Operations,1,4390,No,4,10.0,2,No
+E11239,33,IT,2,8690,Yes,2,14.0,22,No
+E11240,20,Sales,1,6362,No,4,1.0,20,No
+E11241,40,Sales,1,5578,No,4,8.9,21,No
+E11242,20,Research & Development,5,11035,No,1,1.0,3,No
+E11243,39,Sales,1,5597,No,2,7.9,22,Yes
+E11244,55,Research & Development,1,6678,No,1,3.0,9,No
+E11245,47,IT,2,8270,No,2,21.6,9,No
+E11246,41,Operations,2,6786,Yes,2,1.4,27,No
+E11247,28,Operations,1,5005,No,3,3.5,7,No
+E11248,55,Sales,4,9416,No,4,6.9,19,No
+E11249,21,Sales,1,5929,No,2,2.0,18,No
+E11250,27,Human Resources,2,6616,No,1,8.0,4,No
+E11251,23,Sales,4,9847,No,2,4.0,29,Yes
+E11252,34,Research & Development,5,15148,No,3,15.0,12,No
+E11253,27,Sales,4,10019,No,3,0.4,12,No
+E11254,26,Finance,2,7791,Yes,3,1.5,6,No
+E11255,55,Sales,3,7812,No,3,0.2,7,No
+E11256,42,Research & Development,3,10845,No,4,1.7,15,No
+E11257,49,Operations,1,4195,No,2,2.7,15,Yes
+E11258,41,Operations,5,8396,No,3,12.6,9,Yes
+E11259,50,Finance,1,7383,Yes,4,1.2,6,No
+E11260,51,IT,2,8143,No,4,6.0,28,No
+E11261,38,Research & Development,1,6984,No,3,7.1,11,No
+E11262,54,Sales,1,5269,No,1,13.1,12,Yes
+E11263,24,Operations,1,4751,No,4,5.0,22,No
+E11264,58,Finance,4,11626,Yes,4,8.9,28,Yes
+E11265,39,Sales,1,5398,No,3,6.3,8,No
+E11266,26,IT,4,10812,Yes,4,7.0,10,Yes
+E11267,55,Sales,1,5955,No,1,4.2,14,No
+E11268,47,Research & Development,1,6422,No,4,15.5,1,Yes
+E11269,40,Research & Development,1,7874,No,3,0.7,19,No
+E11270,31,Operations,5,7613,Yes,2,6.2,26,No
+E11271,45,Finance,1,5573,No,1,1.8,5,No
+E11272,52,Operations,4,9626,No,2,1.1,12,No
+E11273,35,Research & Development,1,6879,Yes,1,13.2,5,No
+E11274,26,Operations,5,9094,No,3,1.0,7,Yes
+E11275,26,Research & Development,3,11299,No,3,3.6,28,No
+E11276,52,Research & Development,1,6125,Yes,2,1.4,18,Yes
+E11277,45,Research & Development,2,8990,No,1,4.0,26,No
+E11278,30,Research & Development,1,5142,No,2,6.9,11,Yes
+E11279,39,Research & Development,2,8424,No,1,2.5,26,No
+E11280,26,Sales,1,4938,Yes,3,7.0,14,No
+E11281,34,Sales,3,8803,No,3,5.7,17,No
+E11282,53,Research & Development,2,9844,Yes,3,12.0,2,No
+E11283,30,Research & Development,1,6286,No,4,5.2,15,No
+E11284,59,IT,1,7865,Yes,1,0.3,3,No
+E11285,48,Human Resources,4,8338,No,1,6.5,4,No
+E11286,22,Research & Development,1,5276,No,1,3.0,15,No
+E11287,33,Operations,1,3385,No,2,14.0,7,No
+E11288,32,Finance,1,7565,No,1,13.0,1,Yes
+E11289,43,Research & Development,2,8814,No,1,1.5,4,No
+E11290,60,Operations,2,5558,No,4,6.1,2,No
+E11291,30,Research & Development,2,8109,Yes,3,2.8,16,No
+E11292,27,Operations,1,4117,Yes,2,8.0,22,Yes
+E11293,50,Finance,1,7422,Yes,3,4.8,13,No
+E11294,45,Sales,3,8185,Yes,4,0.9,5,Yes
+E11295,35,Finance,1,7758,No,2,4.6,6,No
+E11296,48,Operations,1,4625,No,3,2.5,16,No
+E11297,39,IT,2,6019,No,1,10.5,3,No
+E11298,56,Operations,1,5218,No,4,3.5,7,No
+E11299,58,Human Resources,3,7295,No,3,1.1,17,No
+E11300,32,Research & Development,1,6805,No,3,6.1,1,No
+E11301,49,Operations,1,5629,Yes,3,0.1,5,No
+E11302,40,Sales,2,6597,No,1,1.4,23,Yes
+E11303,50,Research & Development,1,7981,No,3,7.4,1,No
+E11304,35,Operations,3,7310,Yes,1,4.2,10,No
+E11305,33,Sales,1,4873,No,3,0.6,7,No
+E11306,20,Sales,2,7227,No,1,1.0,15,Yes
+E11307,54,IT,2,7780,No,4,13.3,24,No
+E11308,41,IT,3,11676,No,4,3.9,20,No
+E11309,35,Operations,1,5284,No,2,4.2,20,No
+E11310,42,Research & Development,3,10893,No,1,0.5,8,No
+E11311,60,Operations,4,9232,No,4,0.1,15,No
+E11312,54,Sales,1,5719,No,4,1.3,14,Yes
+E11313,56,Operations,1,4581,No,1,5.6,7,Yes
+E11314,35,Operations,3,8100,No,1,6.0,7,No
+E11315,47,Operations,1,4609,No,2,4.3,14,Yes
+E11316,41,Research & Development,1,7522,No,3,0.2,9,No
+E11317,54,Sales,1,4745,No,1,3.3,1,Yes
+E11318,49,IT,2,8487,No,4,5.6,21,No
+E11319,42,Research & Development,4,13351,No,2,14.8,10,No
+E11320,39,IT,4,10836,No,3,11.5,23,No
+E11321,50,Research & Development,2,8465,Yes,4,1.4,14,No
+E11322,40,Sales,2,6378,No,1,3.1,5,No
+E11323,25,Operations,5,10757,No,4,3.8,3,No
+E11324,22,Operations,2,5508,No,2,0.9,21,Yes
+E11325,60,Finance,5,14037,Yes,2,11.4,17,No
+E11326,30,Human Resources,3,9032,Yes,1,4.1,26,No
+E11327,52,Sales,3,8626,No,2,14.3,13,No
+E11328,24,IT,3,8214,No,4,5.0,15,No
+E11329,25,Sales,1,5440,No,2,4.5,2,No
+E11330,21,Operations,1,5333,No,4,0.6,12,No
+E11331,29,Research & Development,1,6769,No,4,3.9,5,No
+E11332,60,Research & Development,4,14419,No,3,6.0,4,No
+E11333,43,Research & Development,5,15716,No,2,2.5,15,No
+E11334,20,Research & Development,2,9366,No,1,1.0,12,No
+E11335,51,Operations,1,4594,No,1,2.3,27,Yes
+E11336,58,Operations,1,4451,No,4,7.2,16,No
+E11337,26,Operations,2,5847,Yes,4,3.2,2,No
+E11338,42,Research & Development,2,8984,No,1,3.8,28,No
+E11339,59,Operations,1,5040,Yes,3,5.2,17,Yes
+E11340,33,Research & Development,1,7365,No,4,3.4,2,No
+E11341,34,Operations,2,5815,Yes,2,2.7,9,Yes
+E11342,45,Research & Development,3,10910,No,3,6.8,1,No
+E11343,60,Operations,1,4964,Yes,4,0.4,12,No
+E11344,58,Sales,1,4319,No,1,5.5,22,Yes
+E11345,50,Research & Development,1,6368,No,3,2.3,27,Yes
+E11346,31,Sales,2,6168,No,3,9.6,5,No
+E11347,39,Research & Development,2,8703,Yes,1,3.9,19,No
+E11348,27,Sales,2,6597,No,3,0.8,5,No
+E11349,34,Operations,4,8349,No,4,1.2,9,No
+E11350,59,Human Resources,2,5639,Yes,3,12.9,20,Yes
+E11351,23,Research & Development,1,7581,No,2,4.0,14,No
+E11352,25,Sales,3,8557,Yes,2,6.0,8,No
+E11353,23,Operations,3,5884,No,1,2.7,29,No
+E11354,28,Sales,4,9756,No,3,3.6,3,No
+E11355,45,Human Resources,1,4284,Yes,4,4.9,26,No
+E11356,35,Sales,1,6460,No,1,16.0,3,Yes
+E11357,51,Research & Development,2,8437,No,2,8.5,13,Yes
+E11358,44,Research & Development,5,13956,No,4,0.6,13,No
+E11359,57,Sales,2,6893,No,3,0.5,16,No
+E11360,33,Research & Development,2,8711,No,3,1.1,11,Yes
+E11361,34,Sales,1,5329,Yes,4,8.8,14,Yes
+E11362,21,Operations,5,11745,No,4,2.0,10,No
+E11363,58,Finance,1,6572,No,1,8.5,5,Yes
+E11364,54,Research & Development,2,9818,No,1,3.5,15,No
+E11365,32,IT,2,9535,No,4,8.7,29,No
+E11366,29,Sales,3,7318,No,1,1.5,8,No
+E11367,58,Operations,3,8811,No,3,4.7,7,No
+E11368,41,Research & Development,2,9662,No,4,13.2,26,No
+E11369,57,Research & Development,1,7823,Yes,1,3.0,7,No
+E11370,32,IT,5,12363,No,3,2.2,8,No
+E11371,26,IT,2,9224,No,3,4.0,4,Yes
+E11372,44,Sales,1,5633,No,3,1.2,11,No
+E11373,55,Research & Development,1,6568,No,1,1.9,28,No
+E11374,24,IT,3,12986,No,3,0.8,24,No
+E11375,48,Finance,3,10550,No,4,5.2,27,No
+E11376,21,Operations,2,5866,No,4,1.2,4,No
+E11377,48,Human Resources,2,6448,No,3,6.7,19,No
+E11378,56,Finance,2,9027,No,1,3.3,26,No
+E11379,54,IT,5,15657,No,2,16.5,16,Yes
+E11380,45,Operations,2,6460,Yes,2,0.3,6,Yes
+E11381,42,Sales,3,9494,No,4,1.7,17,No
+E11382,25,Research & Development,4,14988,No,3,6.0,1,No
+E11383,40,Operations,3,6247,No,4,2.1,11,No
+E11384,58,Finance,2,7667,No,2,10.8,16,No
+E11385,35,Research & Development,1,6231,No,3,1.1,26,No
+E11386,31,Research & Development,3,10963,No,2,0.4,4,No
+E11387,55,Sales,3,9719,No,1,2.6,17,No
+E11388,41,Operations,5,10689,No,2,7.6,7,No
+E11389,56,Research & Development,1,6142,No,1,3.0,25,Yes
+E11390,21,IT,1,6375,Yes,4,2.0,23,Yes
+E11391,26,Sales,2,7669,No,4,1.3,21,No
+E11392,47,Operations,3,6865,No,2,15.7,28,No
+E11393,51,Operations,1,4694,Yes,4,8.7,20,No
+E11394,59,Research & Development,2,9255,No,2,14.1,24,No
+E11395,31,Sales,1,4198,No,2,9.8,20,No
+E11396,30,Research & Development,5,16023,Yes,1,1.5,2,Yes
+E11397,27,IT,1,6879,No,2,8.0,23,No
+E11398,50,Sales,1,5734,No,2,4.8,25,No
+E11399,28,Sales,3,7317,No,2,0.4,24,No
+E11400,56,Research & Development,1,6375,Yes,4,4.7,13,No
+E11401,43,Sales,2,6340,No,2,0.5,20,Yes
+E11402,47,IT,1,6806,No,3,8.4,22,No
+E11403,31,IT,1,6663,No,4,9.5,10,No
+E11404,49,Finance,1,6499,No,2,1.7,24,Yes
+E11405,29,IT,1,8025,No,3,0.1,8,No
+E11406,27,Operations,2,6984,No,4,1.1,25,No
+E11407,24,Sales,1,4907,No,3,0.3,6,No
+E11408,26,IT,2,7747,No,3,3.2,11,No
+E11409,33,IT,4,14461,Yes,3,10.5,25,No
+E11410,24,IT,2,8085,No,1,1.6,5,No
+E11411,51,Operations,1,5533,No,1,11.6,15,No
+E11412,34,IT,5,16433,No,2,2.8,27,Yes
+E11413,20,Research & Development,1,6565,No,1,1.0,1,Yes
+E11414,56,Operations,1,4596,Yes,3,7.5,18,No
+E11415,39,Research & Development,2,9018,No,1,4.2,18,No
+E11416,46,Research & Development,2,8006,No,3,3.8,9,Yes
+E11417,44,Research & Development,1,6199,No,2,3.7,26,Yes
+E11418,52,Sales,2,6500,No,4,8.1,19,No
+E11419,22,Research & Development,2,9841,No,3,0.1,27,No
+E11420,34,Research & Development,2,8451,No,4,0.1,12,No
+E11421,32,Research & Development,1,6847,No,4,13.0,28,No
+E11422,43,Human Resources,2,5952,No,1,1.5,13,No
+E11423,57,Operations,2,5054,Yes,4,19.6,26,No
+E11424,20,Operations,1,5593,Yes,3,1.0,23,No
+E11425,60,Finance,2,5859,No,3,0.9,6,No
+E11426,39,Sales,2,6294,No,2,10.7,26,No
+E11427,54,Research & Development,2,9527,Yes,2,9.5,15,No
+E11428,59,Sales,3,6903,Yes,1,3.4,6,Yes
+E11429,26,Research & Development,3,11623,No,2,2.5,21,Yes
+E11430,29,Finance,2,9362,Yes,2,3.8,9,No
+E11431,51,Sales,1,4816,No,3,0.3,19,No
+E11432,37,IT,4,12296,Yes,2,3.1,2,No
+E11433,38,Human Resources,1,4297,No,2,11.4,11,No
+E11434,32,Research & Development,3,11495,No,1,9.5,10,No
+E11435,26,IT,2,8493,No,4,2.5,2,No
+E11436,54,Research & Development,2,9159,No,2,0.6,28,No
+E11437,39,Research & Development,3,12610,No,3,3.3,26,Yes
+E11438,20,Research & Development,2,9432,Yes,2,1.0,14,No
+E11439,57,Sales,5,13012,No,1,31.7,23,Yes
+E11440,24,Research & Development,4,13713,Yes,1,5.0,4,Yes
+E11441,55,Research & Development,1,6012,Yes,4,0.5,26,No
+E11442,49,Finance,2,8396,No,3,5.1,2,No
+E11443,36,Research & Development,3,11472,No,1,7.5,12,No
+E11444,36,Sales,1,4439,No,1,5.6,17,No
+E11445,22,Finance,2,9441,Yes,2,3.0,8,No
+E11446,36,Sales,5,11297,No,3,3.3,16,No
+E11447,56,Finance,1,6683,No,4,1.7,25,Yes
+E11448,56,Human Resources,1,4424,No,3,6.0,28,No
+E11449,60,Operations,1,4790,No,3,3.3,19,No
+E11450,47,Research & Development,1,7272,No,2,28.0,8,No
+E11451,40,Sales,1,5159,Yes,4,7.1,20,Yes
+E11452,53,Sales,2,6894,No,4,17.9,12,No
+E11453,29,Sales,3,6184,Yes,4,0.1,1,No
+E11454,56,Research & Development,2,10384,No,4,1.2,29,No
+E11455,42,Research & Development,2,7737,No,2,10.9,4,No
+E11456,38,Finance,1,4728,No,1,1.8,22,No
+E11457,48,Research & Development,1,6213,No,4,2.3,23,No
+E11458,44,Finance,5,12025,No,2,13.4,11,No
+E11459,39,IT,1,7037,No,2,1.3,26,Yes
+E11460,56,Sales,4,8680,No,4,4.2,8,No
+E11461,34,Operations,1,4910,No,1,5.4,11,No
+E11462,54,Sales,2,6043,Yes,1,2.2,21,Yes
+E11463,30,Sales,2,8631,No,1,1.1,26,Yes
+E11464,36,Finance,1,6818,Yes,1,0.3,5,No
+E11465,32,Research & Development,1,8664,No,1,8.2,6,No
+E11466,27,Sales,2,5998,No,3,1.8,6,Yes
+E11467,22,Sales,1,5794,Yes,3,3.0,17,Yes
+E11468,43,Operations,1,4205,Yes,3,2.4,8,No
+E11469,30,Research & Development,1,7505,No,3,11.0,11,Yes
+E11470,60,Sales,1,5803,No,3,11.5,19,No
+E11471,59,Operations,2,4886,No,4,14.7,16,No
+E11472,33,Sales,1,4637,No,3,10.7,13,No
+E11473,20,IT,1,5683,No,2,1.0,6,No
+E11474,50,Research & Development,2,7319,No,1,0.1,17,No
+E11475,49,Research & Development,3,9885,No,4,28.8,12,No
+E11476,34,Research & Development,1,6211,No,2,3.1,16,No
+E11477,52,Operations,5,8194,No,2,3.1,14,No
+E11478,24,Finance,2,8232,No,2,5.0,29,No
+E11479,36,IT,4,12773,No,2,2.0,17,No
+E11480,28,Sales,1,4521,No,1,4.2,25,Yes
+E11481,44,Research & Development,1,6548,Yes,3,1.1,6,Yes
+E11482,22,Sales,1,5370,Yes,2,3.0,19,No
+E11483,29,Sales,4,9470,No,2,6.5,18,No
+E11484,26,Sales,2,6250,Yes,1,1.0,27,Yes
+E11485,47,Sales,3,9085,No,4,2.7,7,No
+E11486,36,Finance,3,10875,No,3,5.0,1,No
+E11487,49,IT,1,7140,Yes,2,6.3,29,Yes
+E11488,25,Human Resources,1,4828,No,1,4.6,27,Yes
+E11489,50,Operations,1,5874,Yes,1,3.4,7,No
+E11490,43,Research & Development,2,10782,No,2,1.3,17,No
+E11491,40,Research & Development,3,10306,No,4,1.6,4,No
+E11492,35,Research & Development,1,6913,No,4,0.5,9,No
+E11493,59,Research & Development,4,14547,No,4,9.1,8,No
+E11494,46,Research & Development,2,8066,No,2,1.7,20,Yes
+E11495,55,IT,1,6916,No,1,5.9,17,No
+E11496,30,Sales,3,8325,Yes,1,4.6,4,No
+E11497,43,Sales,1,4911,Yes,2,21.9,13,No
+E11498,48,Research & Development,3,10525,No,1,5.2,25,No
+E11499,47,Operations,2,4897,Yes,3,1.5,20,Yes
